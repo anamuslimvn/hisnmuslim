@@ -1,13 +1,13 @@
-﻿{
-	"What to say when undressing": 
+{
+	"Lời cầu nguyện khi cởi quần áo": 
 	[
 		{
 			"ID": 9,
 			"ARABIC_TEXT": "(بِسْمِ اللَّهِ).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Bismil-lah.)",
-			"TRANSLATED_TEXT":"(In the name of Allah.)",
+			"TRANSLATED_TEXT":"(Nhân danh Allah.)",
 			"REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/9.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/9.mp3" 
  		}
 	]
 }
