@@ -1,13 +1,13 @@
-﻿{
-	"Invocation for leaving the restroom": 
+{
+	"Lời cầu nguyện khi rời khỏi nhà vệ sinh": 
 	[
 		{
 			"ID": 11,
 			"ARABIC_TEXT": "(غُفْرَانَكَ).",
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Ghufranak.)",
-			"TRANSLATED_TEXT":"(I ask You (Allah) for forgiveness.)",
+			"TRANSLATED_TEXT":"(Bề tôi cầu xin Ngài (Allah) sự tha thứ.)",
 			"REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/11.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/11.mp3" 
  		}
 	]
 }
