@@ -1,13 +1,13 @@
-﻿{
-	"Invocation for At-Tashahhud (sitting in prayer)": 
+{
+	"Lời cầu nguyện trong lúc At-Tashahhud (ngồi trong lễ nguyện)": 
 	[
 		{
 			"ID": 52,
 			"ARABIC_TEXT": "((التَّحِيَّاتُ لِلَّهِ، وَالصَّلَواتُ، وَالطَّيِّباتُ، السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ. أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسولُهُ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Attahiyyatu lillahi wassalawatu wattayyibat, assalamu AAalayka ayyuhan-nabiyyu warahmatul-lahi wabarakatuh, assalamu AAalayna waAAala AAibadil-lahis-saliheen. Ash-hadu an la ilaha illal-lah, wa-ashhadu anna Muhammadan AAabduhu warasooluh.)", 
- 		    "TRANSLATED_TEXT":"(At-tahiyyat is for Allah. All acts of worship and good deeds are for Him.  Peace and the mercy and blessings of Allah be upon you O Prophet.  Peace be upon us and all of Allah’s righteous servants. I bear witness that none has the right to be worshipped except Allah and I bear witness that Muhammad is His slave and Messenger.)(At-tahiyyat: all words which indicate the glorification of Allah.  His eternal existence, His perfection and His sovereignty.)", 
+ 		    "TRANSLATED_TEXT":"(Mọi lời chào mừng, mọi sự tôn vinh (At-tahiyyat) đều dành cho Allah. Mọi hành vi thờ phượng và việc làm tốt đẹp đều dành cho Ngài. Xin bình an, lòng thương xót và phước lành của Allah đến với Ngài, hỡi vị Nabi. Xin bình an đến với bầy tôi và tất cả các bề tôi ngoan đạo của Allah. Bề tôi xin làm chứng rằng không có Thượng Đế nào xứng đáng được thờ phụng ngoài Allah và bề tôi xin làm chứng rằng Muhammad là nô lệ và Sứ Giả của Ngài.)\n(At-tahiyyat: tất cả những từ ngữ thể hiện sự tôn vinh Allah. Sự tồn tại vĩnh cửu, sự hoàn hảo và vương quyền của Ngài.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/52.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/52.mp3" 
  		}
 	]
 }
