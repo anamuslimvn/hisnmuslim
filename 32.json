@@ -1,29 +1,29 @@
-﻿{
-	"Invocations for Qunut in the Witr prayer": 
+{
+	"Lời cầu nguyện Qunut trong lễ nguyện Witr": 
 	[
 		{
 			"ID": 116,
 			"ARABIC_TEXT": "((اللَّهُمَّ اهْدِنِي فِيمَنْ هَدَيْتَ، وَعَافِنِي فِيمَنْ عَافَيْتَ، وَتَوَلَّنِي فِيمَنْ تَوَلَّيْتَ، وَبَارِكْ لِي فِيمَا أَعْطَيْتَ، وَقِنِي شَرَّ مَا قَضَيْتَ؛ فَإِنَّكَ تَقْضِي وَلاَ يُقْضَى عَلَيْكَ، إِنَّهُ لاَ يَذِلُّ مَنْ وَالَيْتَ، [وَلاَ يَعِزُّ مَنْ عَادَيْتَ]، تَبارَكْتَ رَبَّنا وَتَعَالَيْتَ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahummah-dinee feeman hadayt, waAAafinee feeman AAafayt, watawallanee feeman tawallayt, wabarik lee feema aAAtayt, waqinee sharra ma qadayt, fa-innaka taqdee wala yuqda AAalayk, innahu la yathillu man walayt, [wala yaAAizzu man AAadayt], tabarakta rabbana wataAAalayt.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, guide me along with those whom You have guided, pardon me along with those whom You have pardoned, be an ally to me along with those whom You are an ally to and bless for me that which You have bestowed.  Protect me from the evil You have decreed for verily You decree and none can decree over You.For surety, he whom you show allegiance to is never abased and he whom You take as an enemy is never honoured and mighty. O our Lord, Blessed and Exalted are You.)(Evil you have decreed: Allah does not create pure evil which does not have any good or contain any benefit, wisdom or mercy at all, nor does He punish anyone without having commited a sin. Something can be good in terms of its creation when viewed in a particular perspective and at the same time be evil when viewed in another way.Allah created the devil and by him, He tests His servants, so there are those who hate the devil, fight him and his way and they stand at enmity towards him and his followers and there are others who are at allegiance with the devil and follow his steps. So evil exists in His creatures by His will and wisdom, not in His actions or act of creating.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, xin hãy hướng dẫn bề tôi cùng với những người Ngài đã hướng dẫn, tha thứ cho bề tôi cùng với những người Ngài đã tha thứ, hãy là đồng minh của bề tôi cùng với những người mà Ngài là đồng minh và ban phước cho bề tôi những gì Ngài đã ban tặng. Xin hãy bảo vệ bề tôi khỏi điều ác mà Ngài đã định đoạt vì quả thật Ngài định đoạt và không ai có thể định đoạt trên Ngài. Chắc chắn rằng, người mà Ngài che chở sẽ không bao giờ bị hạ thấp và người mà Ngài coi là kẻ thù sẽ không bao giờ được vinh danh và quyền thế. Lạy Rabb của bầy tôi, Ngài thật Phước Hạnh và Tối Cao.)\n(Điều ác mà Ngài đã định đoạt: Allah không tạo ra cái ác thuần túy mà không có bất kỳ điều tốt nào hoặc không chứa đựng bất kỳ lợi ích, sự khôn ngoan hay lòng thương xót nào cả, Ngài cũng không trừng phạt bất kỳ ai mà không phạm tội. Một điều có thể là tốt về mặt tạo hóa của nó khi được nhìn nhận từ một góc độ cụ thể và đồng thời có thể là xấu khi được nhìn nhận theo một cách khác. Allah đã tạo ra shaytan và qua nó, Ngài thử thách các bề tôi của mình, do đó có những người ghét shaytan, chống lại nó và con đường của nó và họ thù địch với nó và những người theo nó, và có những người khác liên minh với shaytan và đi theo bước chân của nó. Vì vậy, cái ác tồn tại trong các tạo vật của Ngài theo ý muốn và sự khôn ngoan của Ngài, chứ không phải trong các hành động hay hành vi sáng tạo của Ngài.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/116.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/116.mp3" 
  		},
 		{
 			"ID": 117,
 			"ARABIC_TEXT": "((اللَّهُمَّ إِنِّي أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِمُعَافَاتِكَ مِنْ عُقُوبَتِكَ، وَأَعُــــوذُ بِكَ مِنْكَ، لاَ أُحْصِي ثَنَاءً عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma innee aAAoothu biridaka min sakhatik, wabimuAAafatika min AAuqoobatik, wa-aAAoothu bika mink, la ohsee thana-an AAalayk, anta kama athnayta AAala nafsik.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, I take refuge within Your pleasure from Your displeasure and within Your pardon from Your punishment, and I take refuge in You from You. I cannot enumerate Your praise. You are as You have praised Yourself.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, bề tôi xin nương náu nơi sự hài lòng của Ngài khỏi sự không hài lòng của Ngài, và nơi sự tha thứ của Ngài khỏi sự trừng phạt của Ngài, và bề tôi xin nương náu nơi Ngài khỏi chính Ngài. Bề tôi không thể kể hết lời ca ngợi Ngài. Ngài chính là như Ngài đã tự ca ngợi mình.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/117.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/117.mp3" 
  		},
 		{
 			"ID": 118,
 			"ARABIC_TEXT": "((اللَّهُمَّ إِيَّاكَ نعْبُدُ، وَلَكَ نُصَلِّي وَنَسْجُدُ، وَإِلَيْكَ نَسْعَى وَنَحْفِدُ، نَرْجُو رَحْمَتَكَ، وَنَخْشَى عَذَابَكَ، إِنَّ عَذَابَكَ بِالكَافِرِينَ مُلْحَقٌ. اللَّهُمَّ إِنَّا نَسْتَعينُكَ، وَنَسْتَغْفِرُكَ، وَنُثْنِي عَلَيْكَ الْخَيْرَ، وَلاَ نَكْفُرُكَ، وَنُؤْمِنُ بِكَ، وَنَخْضَعُ لَكَ، وَنَخْلَعُ مَنْ يَكْفرُكَ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma iyyaka naAAbud, walaka nusallee wanasjud, wa-ilayka nasAAa wanahfid, narjoo rahmatak, wanakhsha AAathabak, inna AAathabaka bilkafireena mulhaq. Allahumma inna nastaAAeenuk, wanastaghfiruk, wanuthnee AAalaykal- khayr, wala nakfuruk, wanu/minu bik, wanakhdaAAu lak wanakhlaAAu man yakfuruk.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, it is You we worship, and unto You we pray and prostrate, and towards You we hasten and You we serve. We hope for Your mercy and fear Your punishment, verily Your punishment will fall upon the disbelievers.O Allah, we seek Your aid and ask Your pardon, we praise You with all good and do not disbelieve in You.We believe in You and submit unto You, and we disown and reject those who disbelieve in You.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, chính Ngài là Đấng bầy tôi thờ phượng, và trước Ngài bầy tôi cầu nguyện và phủ phục, và hướng về Ngài bầy tôi vội vã và phục vụ Ngài. Bầy tôi hy vọng vào lòng thương xót của Ngài và kính sợ sự trừng phạt của Ngài, quả thật sự trừng phạt của Ngài sẽ giáng xuống những kẻ vô đức tin. Lạy Allah, bầy tôi tìm kiếm sự giúp đỡ của Ngài và cầu xin sự tha thứ của Ngài, bầy tôi ca ngợi Ngài với tất cả những điều tốt đẹp và không vô đức tin nơi Ngài. Bầy tôi tin vào Ngài và quy phục trước Ngài, và bầy tôi từ bỏ và khước từ những kẻ vô đức tin nơi Ngài.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/118.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/118.mp3" 
  		}
 	]
 }
