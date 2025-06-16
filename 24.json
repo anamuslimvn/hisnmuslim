@@ -1,93 +1,93 @@
-﻿{
-	"Invocations after the final Tash-ahhud and before ending the prayer": 
+{
+	"Lời cầu nguyện sau Tashahhud cuối cùng và trước khi kết thúc lễ nguyện": 
 	[
 		{
 			"ID": 55,
 			"ARABIC_TEXT": "((اللَّهُــمَّ إِنِّي أَعُوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَمِنْ عَذَابِ جَهَنَّمَ، وَمِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ، وَمِنْ شَرِّ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma innee aAAoothu bika min AAathabil-qabr, wamin AAathabi jahannam, wamin fitnatil-mahya walmamat, wamin shari fitnatil-maseehid-dajjal.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, I take refuge in You from the punishment of the grave, from the torment of the Fire, from the trials and tribulations of life and death and from the evil affliction of Al-Maseeh Ad-Dajjal.)(Al-Maseeh Ad-Dajjal: among the great signs of the last hour and the greatest trials to befall mankind, which every Prophet has warned about.  Most of mankind will follow him. He will appear from Asbahan, Iran at the time when the Muslims will conquer Constantinople.  He will be given special powers and will make the truth seem false and vice versa.  He will claim to be righteous and then he will claim prophethood and finally, divinity.  From his features is that he will be blind in his right eye which is a definite proof that contradicts his claim to be Allah as it is a sign of imperfection.  The word Kafir will be written between his eyes which every believer, literate or illiterate will recognise.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, bề tôi xin nương náu nơi Ngài khỏi sự trừng phạt trong mộ, khỏi sự hành hạ của Hỏa ngục, khỏi những thử thách và gian truân của cuộc sống và cái chết, và khỏi sự hoạn nạn xấu xa của Al-Maseeh Ad-Dajjal.)\n(Al-Maseeh Ad-Dajjal: một trong những dấu hiệu lớn của giờ tận thế và là thử thách lớn nhất sẽ xảy đến với nhân loại, mà mọi Vị Nabi đã cảnh báo. Hầu hết nhân loại sẽ đi theo hắn. Hắn sẽ xuất hiện từ Asbahan, Iran vào thời điểm người Muslim chinh phục Constantinople. Hắn sẽ được ban cho những quyền năng đặc biệt và sẽ làm cho sự thật có vẻ như giả dối và ngược lại. Hắn sẽ tự xưng là người công chính, sau đó tự xưng là Nabi và cuối cùng là thần thánh. Một trong những đặc điểm của hắn là hắn sẽ bị mù mắt phải, đó là một bằng chứng rõ ràng mâu thuẫn với lời tự xưng là Allah của hắn vì đó là một dấu hiệu của sự không hoàn hảo. Chữ Kafir sẽ được viết giữa hai mắt hắn mà mọi tín đồ, dù biết chữ hay không, đều sẽ nhận ra.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/55.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/55.mp3" 
  		},
 		{
 			"ID": 56,
 			"ARABIC_TEXT": "((اللَّهُمَّ إِنِّي أَعوذُ بِكَ مِنْ عَذَابِ الْقَبْرِ، وَأَعوذُ بِكَ مِنْ فِتْنَةِ الْمَسِيحِ الدَّجَّالِ، وَأَعوذُ بِكَ مِنْ فِتْنَةِ الْمَحْيَا وَالْمَمَاتِ. اللَّهُمَّ إِنِّي أَعوذُ بِكَ مِنَ الْمَأْثَمِ وَالْمَغْرَمِ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma innee aAAoothu bika min AAathabil-qabr, wa-aAAoothu bika min fitnatil-maseehid-dajjal, wa-aAAoothu bika min fitnatil-mahya walmamat. Allahumma innee aAAoothu bika minal-ma/thami walmaghram.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, I take refuge in You from the punishment of the grave, and I take refuge in You from the temptation and trial of Al-Maseeh Ad-Dajjal, and I take refuge in You from the trials and tribulations of life and death.  O Allah, I take refuge in You from sin and debt.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, bề tôi xin nương náu nơi Ngài khỏi sự trừng phạt trong mộ, và bề tôi xin nương náu nơi Ngài khỏi sự cám dỗ và thử thách của Al-Maseeh Ad-Dajjal, và bề tôi xin nương náu nơi Ngài khỏi những thử thách và gian truân của cuộc sống và cái chết. Lạy Allah, bề tôi xin nương náu nơi Ngài khỏi tội lỗi và nợ nần.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/56.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/56.mp3" 
  		},
 		{
 			"ID": 57,
 			"ARABIC_TEXT": "((اللَّهُمَّ إِنِّي ظَلَمْتُ نَفْسِي ظُلْماً كَثِيراً، وَلاَ يَغْفِرُ الذُّنوبَ إِلاَّ أَنْتَ، فَاغْفِرْ لِي مَغْفِرَةً مِنْ عِنْدِكَ وَارْحَمْنِي، إِنَّكَ أَنْتَ الغَفورُ الرَّحيمُ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma innee thalamtu nafsee thulman katheeran wala yaghfiruth-thunooba illa ant, faghfir lee maghfiratan min AAindik warhamnee, innaka antal-Ghafoorur-Raheem.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, I have indeed oppressed my soul excessively and none can forgive sin except You, so forgive me a forgiveness from Yourself and have mercy upon me.  Surely, You are The Most-Forgiving, The Most-Merciful.)(From Yourself: i.e. from Your innermost grace without deserving it and a forgiveness which is befitting to your tremendous generosity.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, bề tôi thật sự đã đối xử tồi tệ với bản thân mình một cách quá đáng và không ai có thể tha thứ tội lỗi ngoài Ngài, vậy xin hãy ban cho bề tôi một sự tha thứ từ nơi Ngài và xin rủ lòng thương xót bề tôi. Chắc chắn, Ngài là Đấng Tha Thứ Nhất, Đấng Nhân Từ Nhất.)\n(Từ nơi Ngài: tức là từ ân điển sâu thẳm nhất của Ngài mà không cần phải xứng đáng, và một sự tha thứ xứng đáng với lòng hào phóng to lớn của Ngài.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/57.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/57.mp3" 
  		},
 		{
 			"ID": 58,
 			"ARABIC_TEXT": "((اللَّهُمَّ اغْفِرْ لِي مَا قَدَّمْتُ، وَمَا أَخَّرْتُ، وَمَا أَسْرَرْتُ، وَمَا أَعْلَنْتُ، وَمَا أَسْرَفْتُ، وَمَا أَنْتَ أَعْلَمُ بِهِ مِنِّي. أَنْتَ الْمُقَدِّمُ، وَأَنْتَ الْمُؤَخِّرُ لاَ إِلَهَ إِلاَّ أَنْتَ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahummagh-fir lee ma qaddamtu,  wama akhkhart, wama asrartu wama aAAlant, wama asraftt, wama anta aAAlamu bihi minnee, antal-muqaddimu wa-antal-mu-akhkhiru la ilaha illa ant.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, forgive me for those sins which have come to pass as well as those which shall come to pass, and those I have committed in secret as well as those I have made public, and where I have exceeded all bounds as well as those things about which You are more knowledgeable. You are Al-Muqaddim and Al-Mu-akhkhir.  None has the right to be worshipped except You.)(Meaning of Al-Muqaddim and Al-Mu-akhkhir: Allah puts forward and favours whom He wills from amongst His creation just as He defers and holds back whom He wills in accordance to His wisdom.  E.g.  Favouring man over the rest of creation, favouring the Prophets over the rest of mankind, favouring Muhammad  over all the Prophets and Messengers…etc.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, xin hãy tha thứ cho bề tôi những tội lỗi đã qua cũng như những tội lỗi sẽ đến, những tội lỗi bề tôi đã phạm trong bí mật cũng như những gì bề tôi đã công khai, và cả những nơi bề tôi đã vượt quá giới hạn cũng như những điều mà Ngài biết rõ hơn. Ngài là Al-Muqaddim và Al-Mu-akhkhir. Không có Thượng Đế nào xứng đáng được thờ phụng ngoài Ngài.)\n(Ý nghĩa của Al-Muqaddim và Al-Mu-akhkhir: Allah đưa lên trước và ưu ái ai Ngài muốn trong số các tạo vật của Ngài, cũng như Ngài trì hoãn và giữ lại ai Ngài muốn theo sự khôn ngoan của Ngài. Ví dụ: Ưu ái con người hơn phần còn lại của tạo vật, ưu ái các Vị Nabi hơn phần còn lại của nhân loại, ưu ái Muhammad (saw) hơn tất cả các Vị Nabi và Sứ Giả...v.v.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/58.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/58.mp3" 
  		},
 		{
 			"ID": 59,
 			"ARABIC_TEXT": "((اللَّهُمَّ أَعِنِّي عَلَى ذِكْرِكَ، وَشُكْرِكَ، وَحُسْنِ عِبادَتِكَ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma aAAinnee AAala thikrik, washukrik, wahusni AAibadatik.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, help me to remember You, to thank You, and to worship You in the best of manners.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, xin hãy giúp bề tôi tưởng nhớ Ngài, tạ ơn Ngài, và thờ phượng Ngài một cách tốt đẹp nhất.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/59.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/59.mp3" 
  		},
 		{
 			"ID": 60,
 			"ARABIC_TEXT": "((اللَّهُمَّ إِنِّي أَعُوذُ بِكَ مِنَ الْبُخْلِ، وَأَعوذُ بِكَ مِنَ الْجُبْنِ، وَأَعُوذُ بِكَ مِنْ أَنْ أُرَدَّ إِلَى أَرْذَلِ الْعُمُرِ، وَأَعُوذُ بِكَ مِنْ فِتْنَةِ الدُّنْيَا وَعَذَابِ الْقَبْرِ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma innee aAAoothu bika minal-bukhl, wa-aAAoothu bika minal-jubn, wa-aAAoothu bika min an oradda ila arthalil- AAumur, wa-aAAoothu bika min fitnatid-dunya waAAathabil-qabr.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, I take refuge in You from miserliness and cowardice, I take refuge in You lest I be returned to the worst of lives “i.e. old age, being weak, incapable and in a state of fear”, and I take refuge in You from the trials and tribulations of this life and the punishment of the grave.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, bề tôi xin nương náu nơi Ngài khỏi sự keo kiệt và hèn nhát, bề tôi xin nương náu nơi Ngài để không phải trở lại cuộc sống tồi tệ nhất 'tức là tuổi già, yếu đuối, bất lực và trong tình trạng sợ hãi', và bề tôi xin nương náu nơi Ngài khỏi những thử thách và gian truân của cuộc đời này và sự trừng phạt trong mộ.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/60.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/60.mp3" 
  		},
 		{
 			"ID": 61,
 			"ARABIC_TEXT": "((اللَّهُمَّ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوذُ بِكَ مِنَ النَّارِ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma innee as-alukal-jannah, wa-aAAoothu bika minan-nar.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, I ask You to grant me Paradise and I take refuge in You from the Fire.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, bề tôi cầu xin Ngài ban cho bề tôi Thiên Đàng và bề tôi xin nương náu nơi Ngài khỏi Hỏa Ngục.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/61.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/61.mp3" 
  		},
 		{
 			"ID": 62,
 			"ARABIC_TEXT": "((اللَّهُمَّ بِعِلْمِكَ الغَيْبَ وَقُدْرَتِكَ عَلَى الْخَلقِ أَحْيِنِي مَا عَلِمْتَ الْحَيَاةَ خَيْراً لِي، وَتَوَفَّنِي إِذَا عَلِمْتَ الْوَفَاةَ خَيْراً لِي، اللَّهُمَّ إِنِّي أَسْأَلُكَ خَشْيَتَكَ فِي الْغَيْبِ وَالشَّهَادَةِ، وَأَسْأَلُكَ كَلِمَةَ الْحَقِّ فِي الرِّضَا وَالْغَضَبِ، وَأَسْأَلُكَ الْقَصْدَ فِي الْغِنَى وَالْفَقْرِ، وَأَسْأَلُكَ نَعِيماً لاَ يَنْفَدُ، وَأَسْأَلُكَ قُرَّةَ عَيْنٍ لاَ تَنْقَطِعُ، وَأَسْأَلُكَ الرِّضَا بَعْدَ الْقَضَاءِ، وَأَسْــــأَلُكَ بَرْدَ الْعَيْشِ بَعْدَ الْمَوْتِ، وَأَسْأَلُكَ لَذَّةَ النَّظَرِ إِلَى وَجْهِكَ، وَالشَّوْقَ إِلَى لِقائِكَ فِي غَيرِ ضَرَّاءَ مُضِرَّةٍ، وَلاَ فِتْنَةٍ مُضِلَّةٍ، اللَّهُمَّ زَيِّنَا بِزِينَةِ الإِيمَانِ، وَاجْعَلْنَا هُدَاةً مُهْتَدِينَ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma biAAilmikal-ghayb, waqudratika AAalal-khalq, ahyinee ma AAalimtal-hayata khayran lee watawaffanee itha AAalimtal-wafata khayran lee, allahumma innee as-aluka khashyataka fil-ghaybi washshahadah, wa-as-aluka kalimatal-haqqi fir-rida walghadab, wa-as-alukal-qasda fil-ghina walfaqr, wa-as-aluka naAAeeman la yanfad, wa-as-aluka qurrata AAaynin la tanqatiAA, wa-as-alukar-rida baAAdal-qada/, wa-as-aluka bardal-AAayshi baAAdal-mawt, wa-as-aluka laththatan-nathari ila wajhik, washshawqa ila liqa-ik fee ghayri darraa mudirrah, wala fitnatin mudillah, allahumma zayyinna bizeenatil-eeman wajAAalna hudatan muhtadeen.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, by Your knowledge of the unseen and Your power over creation, keep me alive so long as You know such life to be good for me and take me if You know death to be better for me.  O Allah, make me fearful of You whether in secret or in public and I ask You to make me true in speech, in times of pleasure and anger.I ask you to make me moderate in times of wealth and poverty and I ask You for everlasting bliss and joy which will never cease.I ask You to make me pleased with what You have decreed and for an easy life after death.I ask You for the sweetness of looking upon Your Face and a longing to encounter You in a manner which does not entail a calamity which will bring about harm nor a trial which will cause deviation. O Allah, beautify us with the adornment of faith and make us of those who guide and are rightly guided.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, bằng kiến thức của Ngài về điều vô hình và quyền năng của Ngài đối với tạo vật, xin hãy giữ cho bề tôi được sống miễn là Ngài biết cuộc sống đó là tốt cho bề tôi, và xin hãy lấy đi mạng sống của bề tôi nếu Ngài biết cái chết tốt hơn cho bề tôi. Lạy Allah, xin hãy làm cho bề tôi kính sợ Ngài dù là trong bí mật hay công khai và bề tôi cầu xin Ngài làm cho bề tôi nói lời chân thật, trong những lúc vui sướng và tức giận. Bề tôi cầu xin Ngài làm cho bề tôi điều độ trong lúc giàu sang và nghèo khó và bề tôi cầu xin Ngài ban cho hạnh phúc vĩnh cửu và niềm vui không bao giờ dứt. Bề tôi cầu xin Ngài làm cho bề tôi hài lòng với những gì Ngài đã định đoạt và cho một cuộc sống dễ dàng sau khi chết. Bề tôi cầu xin Ngài cho sự ngọt ngào khi được nhìn thấy Thánh Nhan của Ngài và niềm khao khát được gặp Ngài một cách không gây ra tai họa làm hại hay thử thách làm lệch lạc. Lạy Allah, xin hãy trang điểm cho bầy tôi bằng trang sức của đức tin và biến bầy tôi thành những người hướng dẫn và được hướng dẫn đúng đắn.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/62.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/62.mp3" 
  		},
 		{
 			"ID": 63,
 			"ARABIC_TEXT": "((اللَّهُمَّ إِنِّي أَسْأَلُكَ يَا أَللَّهُ بِأَنَّكَ الْوَاحِدُ الْأَحَدُ الصَّمَدُ الَّذِي لَمْ يَلِدْ وَلَمْ يولَدْ، وَلَمْ يَكنْ لَهُ كُفُواً أَحَدٌ، أَنْ تَغْفِرَ لِي ذُنُوبِي إِنَّكَ أَنْتَ الْغَفُورُ الرَّحِّيمُ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma innee as-aluka ya Allah bi-annakal-wahidul-ahadus-samad, allathee lam yalid walam yoolad, walam yakun lahu kufuwan ahad, an taghfira lee thunoobee innaka antal-Ghafoorur-Raheem.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, I ask You O Allah, as You are The One, The Only, AS-Samad, The One who begets not, nor was He begotten and there is none like unto Him that You forgive me my sins for verily You are The Oft-Forgiving, Most-Merciful.)(AS-Samad: The Self-Sufficient Master, Possessor of perfect attributes whom all of creation turn to in all their needs.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, bề tôi cầu xin Ngài, hỡi Allah, vì Ngài là Đấng Duy Nhất, Đấng Độc Nhất, As-Samad, Đấng không sinh ra ai, cũng không do ai sinh ra và không ai sánh bằng Ngài, rằng xin Ngài hãy tha thứ cho tội lỗi của bề tôi vì quả thật Ngài là Đấng Hằng Tha Thứ, Đấng Rất Mực Khoan Dung.)\n(As-Samad: Đấng Tự Cung Tự Cấp, sở hữu những thuộc tính hoàn hảo mà tất cả tạo vật đều hướng về trong mọi nhu cầu của họ.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/63.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/63.mp3" 
  		},
 		{
 			"ID": 64,
 			"ARABIC_TEXT": "((اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّ لَكَ الْحَمْدَ لَا إِلَهَ إِلاَّ أَنْتَ وَحْدَكَ لاَ شَرِيكَ لَكَ، الْمَنَّانُ، يَا بَدِيعَ السَّمَوَاتِ وَالْأَرْضِ يَا ذَا الْجَلاَلِ وَالْإِكْرَامِ، يَا حَيُّ يَا قَيُّومُ إِنِّي أَسْأَلُكَ الْجَنَّةَ وَأَعُوذُ بِكَ مِنَ النَّارِ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma innee as-aluka bianna lakal-hamd, la ilaha illa ant wahdaka la shareeka lak, almannan, ya badeeAAas-samawati wal-ard, ya thal-jalali wal-ikram, ya hayyu ya qayyoom, innee as-alukal-jannah, wa-aAAoothu bika minan-nar.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, I ask You as unto You is all praise, none has the right to be worshipped except You, alone, without partner. You are the Benefactor. O Originator of the heavens and the Earth, O Possessor of majesty and honour, O Ever Living, O Self-Subsisting and Supporter of all, verily I ask You for Paradise and I take refuge with You from the Fire.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, bề tôi cầu xin Ngài vì mọi lời ca tụng đều thuộc về Ngài, không có Thượng Đế nào xứng đáng được thờ phụng ngoài Ngài, Đấng duy nhất, không có đối tác. Ngài là Đấng Ban Ân. Hỡi Đấng Sáng Tạo các tầng trời và Trái Đất, hỡi Đấng Sở Hữu sự uy nghiêm và danh dự, hỡi Đấng Hằng Sống, hỡi Đấng Tự Hữu và Nâng Đỡ vạn vật, quả thật bề tôi cầu xin Ngài Thiên Đàng và bề tôi xin nương náu nơi Ngài khỏi Hỏa Ngục.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/64.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/64.mp3" 
  		},
 		{
 			"ID": 65,
 			"ARABIC_TEXT": "((اللَّهُمَّ إِنِّي أَسْأَلُكَ بِأَنَّي أَشْهَدُ أَنَّكَ أَنْتَ اللَّهُ لاَ إِلَهَ إِلاَّ أَنْتَ الْأَحَدُ الصَّمَدُ الَّذِي لَمْ يَلِدْ وَلَمْ يُولَدْ وَلَمْ يَكُنْ لَهُ كُفُواً أَحَدٌ)) .", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma inne as-aluka biannee ashhadu annaka antal-lah, la ilaha illa ant, al-ahadus-samad, allathee lam yalid walam yoolad walam yakun lahu kufuwan ahad.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, I ask You, as I bear witness that You are Allah, none has the right to be worshipped except You, The One, AS-Samad Who begets not nor was He begotten and there is none like unto Him.)(AS-Samad: The Self-Sufficient Master, Possessor of perfect attributes whom all of creation turn to in all their needs.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, bề tôi cầu xin Ngài, vì bề tôi làm chứng rằng Ngài là Allah, không có Thượng Đế nào xứng đáng được thờ phụng ngoài Ngài, Đấng Duy Nhất, As-Samad, Đấng không sinh ra ai, cũng không do ai sinh ra và không ai sánh bằng Ngài.)\n(As-Samad: Đấng Tự Cung Tự Cấp, sở hữu những thuộc tính hoàn hảo mà tất cả tạo vật đều hướng về trong mọi nhu cầu của họ.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/65.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/65.mp3" 
  		}
 	]
 }
