@@ -1,29 +1,29 @@
-﻿{
-	"Some invocations for rain": 
+{
+	"Một số lời cầu nguyện khi cầu mưa": 
 	[
 		{
 			"ID": 169,
 			"ARABIC_TEXT": "((اللَّهُمَّ اسْقِنَا غَيْثاً مُغِيثاً مَرِيئاً مَرِيعاً، نَافِعاً غَيْرَ ضَارٍّ، عَاجِلاً غَيْرَ آجِلٍ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahummas-qina ghaythan mugheethan maree-an mureeAAan, nafiAAan, ghayra dar, AAajilan ghayra ajil.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, send upon us helpful, wholesome and healthy rain, beneficial not harmful rain, now, not later.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, xin hãy ban cho bầy tôi cơn mưa giúp (đất đâm chồi, nẩy lộc), đầy phì nhiêu mầu mỡ, có lợi cho bầy tôi và không có hại gì. Cầu xin hãy ban liền đừng chậm trể.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/169.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/169.mp3" 
  		},
 		{
 			"ID": 170,
 			"ARABIC_TEXT": "((اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا، اللَّهُمَّ أَغِثْنَا)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma aghithna, allahumma aghithna, allahumma aghithna.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, relieve us, O Allah, relieve us, O Allah, relieve us.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, xin hãy ban mưa cho bầy tôi! Lạy Allah, xin hãy ban mưa cho bầy tôi! Lạy Allah, xin hãy ban mưa cho bầy tôi!)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/170.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/170.mp3" 
  		},
 		{
 			"ID": 171,
 			"ARABIC_TEXT": "((اللَّهُمَّ اسْقِ عِبَادَكَ، وَبَهَائِمَكَ، وَانْشُرْ رَحْمَتَكَ، وَأَحْيِي بَلَدَكَ الْمَيِّتَ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahummas-qi AAibadak, wabaha-imak, wanshur rahmatak, wa-ahyi baladakal-mayyit.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, provide water for Your servants and Your cattle, spread out Your mercy and resurrect Your dead land.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, xin hãy ban mưa xuống cho đám tôi tớ của Ngài và cho tất cả sinh vật, động vật của Ngài. Xin hãy ban bố lòng nhân từ của Ngài và hãy làm cho đất khô cằn được đâm chồi nẩy lộc.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/171.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/171.mp3" 
  		}
 	]
 }
