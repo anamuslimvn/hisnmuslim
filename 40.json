@@ -1,29 +1,29 @@
-﻿{
-	"Invocations for if you are stricken by in your faith": 
+{
+	"Lời cầu nguyện khi bị lung lay đức tin": 
 	[
 		{
 			"ID": 133,
 			"ARABIC_TEXT": "((يَسْتَعِيذُ بِاللَّهِ و يَنْتَهِي عَمَّا شك فِيهِ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"", 
-			"LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Say:) I seek refuge in Allah. (Then you should desist from doing what you are in doubt about.)", 
+			"LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Hãy tìm kiếm sự che chở nơi Allah. (Sau đó, bạn nên từ bỏ điều mà bạn đang nghi ngờ.))", 
+ 		    "TRANSLATED_TEXT":"(Hãy tìm kiếm sự che chở nơi Allah và từ bỏ những gì mình còn hoài nghi.)",
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/133.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/133.mp3" 
  		},
 		{
 			"ID": 134,
 			"ARABIC_TEXT": "((يَقُولُ: ((آمَنْتُ بِاللَّهِ وَرُسُلِهِ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(He should say: ( Amantu billahi warusulih.))", 
- 		    "TRANSLATED_TEXT":"(He should say: (I have believed in Allah and His Messenger.))", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Hãy đọc: (Amantu billahi warusulih.))", 
+ 		    "TRANSLATED_TEXT":"(Hãy đọc: 'Bề tôi đã tin vào Allah và các Sứ Giả của Ngài.')", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/134.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/134.mp3" 
  		},
 		{
 			"ID": 135,
 			"ARABIC_TEXT": "((يَقْرَأُ قَوْلَهُ تَعَالَى: ﴿هُوَ الْأوَّلُ وَالْآخِرُ وَالظّاهِرُ وَالْباطِنُ وَهُوَ بِكُلِّ شَيْءٍ عَلِيمٌ﴾)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(He should also recite the following verse: ( Huwa al-awwalu, waal-akhiru, waalththahiru waalbatinu wahuwa bikulli shayin AAaleem))", 
- 		    "TRANSLATED_TEXT":"(He should also recite the following verse: (He is The First and The Last, Aththahir and Al-Batin and He knows well all things.)(ththahir: Indicates the greatness of His attributes and the insignificance of every single creation in respect to His greatness and Highness, for He is above all of His creation as regards His essence and attributes.)(Al-Batin: Indicates His awareness and knowledge of all secrets, of that which is in the hearts and the most intimate of things just as it indicates His closeness and nearness to all in a manner which befits His majesty.))", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Cũng nên đọc câu Kinh sau: (Huwa al-awwalu, waal-akhiru, waalththahiru waalbatinu wahuwa bikulli shayin AAaleem))", 
+ 		    "TRANSLATED_TEXT":"(Cũng nên đọc câu Kinh sau: 'Ngài là Đấng Nguyên Thủy và là Đấng Cuối Cùng, là Đấng Ath-Thahir và là Đấng Al-Batin, và Ngài thông suốt mọi sự.') (Ath-Thahir: Cho thấy sự vĩ đại của các thuộc tính của Ngài và sự nhỏ bé của mọi tạo vật so với sự vĩ đại và cao cả của Ngài, vì Ngài ở trên tất cả tạo vật của mình về bản chất và thuộc tính.) (Al-Batin: Cho thấy sự nhận biết và kiến thức của Ngài về mọi bí mật, về những gì trong trái tim và những điều thân mật nhất, cũng như cho thấy sự gần gũi và kề cận của Ngài với tất cả một cách phù hợp với sự uy nghi của Ngài.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/135.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/135.mp3" 
  		}
 	]
 }
