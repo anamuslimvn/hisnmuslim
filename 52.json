@@ -1,13 +1,13 @@
-﻿{
-	"What to encourage the dying person to say": 
+{
+	"Điều nên khuyến khích người sắp lâm chung nói": 
 	[
 		{
 			"ID": 153,
 			"ARABIC_TEXT": "((مَنْ كَانَ آخِرُ كَلاَمِهِ لاَ إِلَهَ إِلاَّ اللَّهُ دَخَلَ الْجَنَّةَ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"i.e. those around the sick should instruct and encourage him to say the shahadah. (He whose last words are: (La ilaha illal-lah.) will enter Paradise.)", 
- 		    "TRANSLATED_TEXT":"i.e. those around the sick should instruct and encourage him to say the shahadah. (He whose last words are: (None has the right to be worshipped except Allah.) will enter Paradise.)", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"tức là những người xung quanh người bệnh nên hướng dẫn và khuyến khích người đó nói lời Shahadah. (Người nào có lời nói cuối cùng là: (La ilaha illal-lah.) sẽ được vào Thiên Đàng.)", 
+ 		    "TRANSLATED_TEXT":"Ai nói cuối cùng (trước khi qua đời): {لَا إِلَـٰهَ إِلَّا اللهُ} được vào thiên đàng.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/153.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/153.mp3" 
  		}
 	]
 }
