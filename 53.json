@@ -1,13 +1,13 @@
-﻿{
-	"Invocation for when tragedy strikes": 
+{
+	"Lời cầu nguyện khi tai ương ập đến": 
 	[
 		{
 			"ID": 154,
 			"ARABIC_TEXT": "((إِنَّا لِلَّهِ وَإِنَّا إِلَيْهِ رَاجِعُونَ، اللَّهُمَّ أْجُرْنِي فِي مُصِيبَتِي، وَأَخْلِفْ لِي خَيْرَاً مِنْهَا)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Inna lillahi wa-inna ilayhi rajiAAoon, allahumma/- jurnee fee museebatee wakhluf lee khayran minha.)", 
- 		    "TRANSLATED_TEXT":"(To Allah we belong and unto Him is our return.O Allah, recompense me for my affliction and replace it for me with something better.)", 
+ 		    "TRANSLATED_TEXT":"(Tất cả bầy tôi là của Allah và bầy tôi sẽ trở về gặp Ngài. Lạy Allah, Xin hãy kéo bề tôi tránh xa tai nạn này và hãy thay đổi cho bề tôi điều khác tốt hơn nó.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/154.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/154.mp3" 
  		}
 	]
 }
