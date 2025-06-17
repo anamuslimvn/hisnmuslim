@@ -1,13 +1,13 @@
-﻿{
-	"Invocation for when it thunder": 
+{
+	"Lời cầu nguyện khi có sấm sét": 
 	[
 		{
 			"ID": 168,
 			"ARABIC_TEXT": "((سُبْحَانَ الَّذِي يُسَبِّحُ الرَّعْدُ بِحَمْدِهِ وَالْمَلاَئِكةُ مِنْ خِيفَتِهِ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Subhanal-lathee yusabbihur-raAAdu bihamdih, walmala-ikatu min kheefatih.)", 
- 		    "TRANSLATED_TEXT":"(How perfect He is, (The One) Whom the thunder declares His perfection with His praise, as do the angles out of fear of Him.)", 
+ 		    "TRANSLATED_TEXT":"(Vinh quang thay Đấng mọi lời ca ngợi tán dương là của Ngài, Đấng mà Thần Sấm luôn ca tụng tán dương và tất cả Thiên Thần vì Ngài mà khiếp sợ.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/168.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/168.mp3" 
  		}
 	]
 }
