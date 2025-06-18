@@ -1,13 +1,13 @@
-﻿{
-	"What to say when you are fasting and someone is rude to you": 
+{
+	"Lời cầu nguyện khi đang nhịn chay và có người xúc phạm bạn": 
 	[
 		{
 			"ID": 186,
 			"ARABIC_TEXT": "((إِنِّي صَائِمٌ، إِنِّي صَائِمٌ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Innee sa-im, innee sa-im.)", 
- 		    "TRANSLATED_TEXT":"(I am fasting, I am fasting.)", 
+ 		    "TRANSLATED_TEXT":"(Tôi đang nhịn chay, tôi đang nhịn chay.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/186.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/186.mp3" 
  		}
 	]
 }
