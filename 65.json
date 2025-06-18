@@ -1,13 +1,13 @@
-﻿{
-	"Supplication after it rains": 
+{
+	"Lời cầu nguyện sau khi trời mưa": 
 	[
 		{
 			"ID": 173,
 			"ARABIC_TEXT": "((مُطِرْنَا بِفَضْلِ اللَّهِ وَرَحْمَتِهِ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Mutirna bifadlil-lahi warahmatih.)", 
- 		    "TRANSLATED_TEXT":"(We have been given rain by the grace and mercy of Allah.)", 
+ 		    "TRANSLATED_TEXT":"(Bầy tôi đã được ban mưa nhờ ân huệ và lòng thương xót của Allah.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/173.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/173.mp3" 
  		}
 	]
 }
