@@ -1,12 +1,13 @@
-﻿{
-	"Invocation for someone who offers you food when you are fasting, which you decline": 
+{
+	"Lời cầu nguyện khi được mời ăn lúc đang nhịn chay": 
 	[
 		{
 			"ID": 185,
 			"ARABIC_TEXT": "((إِذَا دُعِيَ أَحَدُكُمْ فَلْيُجِبْ، فَإِنْ كَانَ صَائِماً فَلْيُصَلِّ، وَإِنْ كَانَ مُفْطِراً فَلْيَطْعَمْ)) ، وَمَعْنَى فَلْيُصَلِّ أَيْ فَلْيَدْعُ.", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(If you are not invited (to a meal) then answer.  If  you happen to be fasting, then supplicate (for those present) and if you are not fasting, then eat.)", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Idha du'iya ahadukum falyujib, fa-in kaana sa-iman falyusalli, wa-in kaana muftiran falyat'am. Wa ma'na falyusalli ay falyad'u.)", 
+ 		    "TRANSLATED_TEXT":"(Ai trong các bạn được mời dự tiệc thì hãy đáp lại lời mời. Nếu là người nhịn chay thì hãy cầu xin cho gia chủ sự tha thứ và phúc lành còn ai không nhịn chay thì hãy ăn.” Hadith do Muslim ghi.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/185.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/185.mp3" 
  		}
 	]
 }
