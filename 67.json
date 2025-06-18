@@ -1,13 +1,13 @@
-﻿{
-	"Invocation for sighting the new moon": 
+{
+	"Lời cầu nguyện khi nhìn thấy trăng non": 
 	[
 		{
 			"ID": 175,
 			"ARABIC_TEXT": "((اللَّهُ أَكْبَرُ، اللَّهُمَّ أَهِلَّهُ عَلَيْنَا بِالْأَمْنِ وَالْإِيمَانِ، وَالسَّلاَمَةِ وَالْإِسْلاَمِ، وَالتَّوْفِيقِ لِمَا تُحِبُّ رَبَّنَا وَتَرْضَى، رَبُّنَا وَرَبُّكَ اللَّهُ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahu akbar, allahumma ahillahu AAalayna bil-amni wal-eeman, wassalamati wal-islam, wattawfeeiqi lima tuhibbu watarda, rabbuna warabbukal-lah.)", 
- 		    "TRANSLATED_TEXT":"(Allah is the greatest. O Allah, let the crescent loom above us in safety, faith, peace, and Islam, and in agreement with all that You love and pleases You. Our Lord and your Lord is Allah.)", 
+ 		    "TRANSLATED_TEXT":"(Allah vĩ đại nhất, lạy Allah, xin hãy cho lưỡi liềm được mọc lên và cho bầy tôi thấy nó bằng sự an toàn, bình an, tin tưởng, phủ phục và thành công với những gì mà Thượng Đế của bầy tôi thương yêu và hài lòng. Allah là Thượng Đế của bầy tôi và của bạn (đấy lưỡi liềm).)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/175.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/175.mp3" 
  		}
 	]
 }
