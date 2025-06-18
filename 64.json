@@ -1,13 +1,13 @@
-﻿{
-	"Invocation for when it rains": 
+{
+	"Lời cầu nguyện khi trời mưa": 
 	[
 		{
 			"ID": 172,
 			"ARABIC_TEXT": "((اللَّهُمَّ صَيِّباً نَافِعاً)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma sayyiban nafiAAa.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, may it be a beneficial rain cloud.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, xin cho (cơn mưa này) là một cơn mưa hữu ích.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/172.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/172.mp3" 
  		}
 	]
 }
