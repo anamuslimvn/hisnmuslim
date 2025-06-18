@@ -1,13 +1,13 @@
-﻿{
-	"What to say to the disbeliever if he sneezes and praises Allah": 
+{
+	"Nói gì với người không tin (Kafir) nếu họ hắt hơi và ca ngợi Allah": 
 	[
 		{
 			"ID": 189,
 			"ARABIC_TEXT": "((يَهْدِيكُمُ اللَّهُ وَيُصْلِحُ بَالَكُمْ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Yahdeekum wayuslihu balakum.)", 
- 		    "TRANSLATED_TEXT":"(May Allah guide you and rectify your condition.)", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Yahdeekumul-lahu wayuslihu balakum.)", 
+ 		    "TRANSLATED_TEXT":"(Cầu xin Allah hướng dẫn và cải thiện việc làm của các anh.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/189.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/189.mp3" 
  		}
 	]
 }
