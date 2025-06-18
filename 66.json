@@ -1,13 +1,13 @@
-﻿{
-	"Invocation for the withholding of the rain": 
+{
+	"Lời cầu nguyện khi mưa quá nhiều": 
 	[
 		{
 			"ID": 174,
 			"ARABIC_TEXT": "((اللَّهُمَّ حَوَالَيْنَا وَلاَ عَلَيْنَا، اللَّهُمَّ عَلَى الآكَامِ وَالظِّرَابِ، وَبُطُونِ الْأَوْدِيَةِ، وَمَنَابِتِ الشَّجَرِ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma hawalayna wala AAalayna, allahumma AAalal-akami waththirab, wabutoonil-awdiyah, wamanabitish-shajar.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, let the rain fall around us and not upon us, O Allah, (let it fall) on the pastures, hills, valleys and the roots of trees.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, xin hãy cho mưa xuống vườn tược, đồng ruộng, đồi núi và thung lũng chứ đừng trúc xuống làng mạc.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/174.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/174.mp3" 
  		}
 	]
 }
