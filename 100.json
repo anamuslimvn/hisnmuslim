@@ -1,11 +1,11 @@
 {
-	"Lời cầu nguyện của người đi du hành cho người ở lại": 
+	"Lời chia tay của người đi dành cho người ở": 
 	[
 		{
 			"ID": 211,
 			"ARABIC_TEXT": "((أَسْتَوْدِعُكُمُ اللَّهَ الَّذِي لاَ تَضِيعُ وَدَائِعُهُ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(AstawdiAAukumul-lah, allathee la tadeeAAu wada-iAAuh.)", 
- 		    "TRANSLATED_TEXT":"(Bề tôi xin gửi gắm mọi người cho Allah, Đấng mà những gì được gửi gắm nơi Ngài sẽ không bao giờ bị mất.)", 
+ 		    "TRANSLATED_TEXT":"(Bề tôi xin ký gởi mọi người cho Allah, Ngài là Đấng không hề làm mất vật đã được ký gởi cho Ngài.)", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/211.mp3" 
  		}
