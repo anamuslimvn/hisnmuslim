@@ -1,13 +1,13 @@
-﻿{
-	"Invocation upon hearing a dog barking in the night": 
+{
+	"Lời cầu nguyện khi nghe tiếng chó sủa trong đêm": 
 	[
 		{
 			"ID": 229,
 			"ARABIC_TEXT": "((إِذَا سَمِعْتُمْ نُبَاحَ الْكِلاَبِ وَنَهِيقَ الْحَمِيرِ بِاللَّيْلِ فَتَعَوَّذُوا بِاللَّهِ مِنْهُنَّ؛ فَإِنَّهُنَّ يَرَيْنَ مَا لاَ تَرَوْنَ)).", 
 			"LANGUAGE_ARABIC_TRANSLATED_TEXT":"", 
-  		    "TRANSLATED_TEXT":"(If you hear the barking of dogs or the braying of asses at night, seek refuge in Allah for they see what you do not.)", 
+  		    "TRANSLATED_TEXT":"(Khi các bạn nghe gà gáy thì hãy cầu xin Allah ban cho sự ưu đãi, vì khi đó nó nhìn thấy Thiên Thần. Còn khi các bạn nghe tiếng kêu của con lừa thì hãy cầu xin Allah che chở tránh khỏi Shayton, vì khi đó nó nhìn thấy Shayton.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/229.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/229.mp3" 
  		}
 	]
 }
