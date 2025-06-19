@@ -1,13 +1,13 @@
-﻿{
-	"What to say upon returning from a Journey": 
+{
+	"Lời cầu xin khi quay trở về từ chuyến đi": 
 	[
 		{
 			"ID": 217,
 			"ARABIC_TEXT": "((يُكَبِّرُ عَلَى كُلِّ شَرَفٍ ثَلاَثَ تَكْبِيرَاتٍ ثُمَّ يَقُولُ: لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ، وَلَهُ الْحَمْدُ، وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ، آيِبُونَ، تَائِبُونَ، عَابِدُونَ، لِرَبِّنا حَامِدُونَ، صَدَقَ اللَّهُ وَعْدَهُ، وَنَصَرَ عَبْدَهُ، وَهَزَمَ الْأَحْزابَ وَحْدَهُ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Ibn AAumar  reported that the Messenger of Allah  on return from a battle or from performing the pilgrimage would say at every high point: (Allahu akbar, Allahu akbar, Allahu akbar.) and then he would say: (La ilaha illal-lahu wahdahu la shareeka lah, lahul-mulku walahul-hamd, wahuwa AAala kulli shay-in qadeer, ayiboona ta-iboon, AAabidoon, lirabbina hamidoon, sadaqal-lahu waAAdah, wanasara AAabdah, wahazamal-ahzaba wahdah.))", 
- 		    "TRANSLATED_TEXT":"(Ibn AAumar  reported that the Messenger of Allah  on return from a battle or from performing the pilgrimage would say at every high point: (Allah is the greatest, Allah is the greatest, Allah is the greatest.) and then he would say: (None has the right to be worshipped except Allah, alone, without partner.  To Him belongs all sovereignty and praise, and He is over all things omnipotent.  We return, repent, worship and praise our Lord.  Allah fulfilled His promise, aided His Servant, and single-handedly defeated the allies.))", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Ibn 'Umar (رضي الله عنه) tường thuật rằng Sứ Giả của Allah (ﷺ) khi trở về từ một trận chiến hoặc từ cuộc hành hương, Người sẽ đến gò đất cao  và nói 3 lần: (Allahu akbar, Allahu akbar, Allahu akbar.) và sau đó Người nói tiếp: (La ilaha illal-lahu wahdahu la shareeka lah, lahul-mulku walahul-hamd, wahuwa AAala kulli shay-in qadeer, ayiboona ta-iboon, AAabidoon, lirabbina hamidoon, sadaqal-lahu waAAdah, wanasara AAabdah, wahazamal-ahzaba wahdah.)", 
+ 		    "TRANSLATED_TEXT":"Ibn 'Umar (رضي الله عنه) tường thuật rằng Sứ Giả của Allah (ﷺ) khi trở về từ một trận chiến hoặc từ cuộc hành hương, Người sẽ đến gò đất cao  và nói 3 lần: 'Allahu Akbar' (Allah là Đấng Vĩ Đại Nhất), sau đó Người nói tiếp: 'Không có Thượng Đế nào đích thực ngoại trừ Allah duy nhất không có cộng tác với Ngài, mọi quyền lực, mọi lời ca ngợi đều là của Ngài và Ngài có khả năng trên tất cả mọi việc. Bầy tôi quay trở về sám hối với Allah, thành tâm tôn thờ Ngài. Và vì Thượng Đế của bầy tôi, bầy tôi ca tụng, tán dương. Lời giao ước của Allah giúp đỡ đám nô lệ của Ngài là thật và duy chỉ Ngài đã hủy diệt phe đảng (chống đối).'", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/217.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/217.mp3" 
  		}
 	]
 }
