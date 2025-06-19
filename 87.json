@@ -1,13 +1,13 @@
-﻿{
-	"Invocation for someone who does good to you": 
+{
+	"Lời cầu nguyện cho người làm điều tốt với bạn": 
 	[
 		{
 			"ID": 198,
 			"ARABIC_TEXT": "((جَزَاكَ اللَّهُ خَيْراً)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(If someone does you a favour and you say: (Jazakal-lahu khayran.) then you have indeed excelled in praising him.)", 
- 		    "TRANSLATED_TEXT":"(If someone does you a favour and you say: (May Allah reward you with goodness.) then you have indeed excelled in praising him.)", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Nếu ai đó giúp thì bạn nói: (Jazakal-lahu khayran.) thì bạn thực sự đã xuất sắc trong việc khen ngợi người đó.)", 
+ 		    "TRANSLATED_TEXT":"(Nếu ai đó giúp thì bạn nói: 'Cầu xin Allah ban tặng cho anh nhiều điều tốt.' thì bạn thực sự đã xuất sắc trong việc khen ngợi người đó.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/198.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/198.mp3" 
  		}
 	]
 }
