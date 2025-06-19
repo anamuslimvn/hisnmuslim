@@ -1,13 +1,13 @@
-﻿{
-	"Invocation for someone who tells you I love you for the sake of Allah": 
+{
+	"Lời đáp lại khi có người nói: 'Tôi yêu bạn vì Allah'": 
 	[
 		{
 			"ID": 200,
 			"ARABIC_TEXT": "((أَحَبَّكَ الَّذِي أَحْبَبْتَنِي لَهُ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Ahabbakal-lathee ahbabtanee lah.)", 
- 		    "TRANSLATED_TEXT":"(May He, for whom you have loved me, love you.)", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Đáp lại khi được người khác nói:(إِنِّـي أُحِبّـُكَ فِـي اللهِ - Ahabbakal-lathee ahbabtanee lah.)", 
+ 		    "TRANSLATED_TEXT":"Đáp lại khi được người khác nói: Thực sự, tôi thương anh vì Allah. Bạn nói: (Sẽ thương yêu lại anh Đấng mà anh đã thương tôi vì Ngài.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/200.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/200.mp3" 
  		}
 	]
 }
