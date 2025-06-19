@@ -1,13 +1,13 @@
-﻿{
-	"Invocation for fear of Shirk": 
+{
+	"Lời cầu nguyện khi sợ phạm phải Shirk (Đa thần)": 
 	[
 		{
 			"ID": 203,
 			"ARABIC_TEXT": "((اللَّهُمَّ إِنِّي أَعُوذُ بِكَ أَنْ أُشْرِكَ بِكَ وَأَنَا أَعْلَمُ، وَأَسْتَغْفِرُكَ لِمَا لاَ أَعْلَمُ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(shirk: to associate others with Allah in those things which are specific to Him.  This can occur in (1) belief, e.g. to believe that other than Allah has the power to benefit or harm, (2) speech, e.g. to swear by other than Allah and (3) action, e.g. to bow or prostrate to other than Allah.)(Allahumma innee aAAoothu bika an oshrika bika wa-ana aAAlam, wa-astaghfiruka lima la aAAlam.)", 
- 		    "TRANSLATED_TEXT":"(shirk: to associate others with Allah in those things which are specific to Him.  This can occur in (1) belief, e.g. to believe that other than Allah has the power to benefit or harm, (2) speech, e.g. to swear by other than Allah and (3) action, e.g. to bow or prostrate to other than Allah.)(O Allah, I take refuge in You lest I should commit shirk with You knowingly and I seek Your forgiveness for what I do unknowingly.)", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma innee aAAoothu bika an oshrika bika wa-ana aAAlam, wa-astaghfiruka lima la aAAlam.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, xin hãy che chở cho bề tôi tránh khỏi tội tổ hợp Ngài trong khi bề tôi hiểu biết và hãy tha thứ với những gì bề tôi không hiểu biết.)\n(Shirk: việc tổ hợp người khác, vật gì đó với Allah trong những điều đặc thù của Ngài. Điều này có thể xảy ra trong: (1) niềm tin, ví dụ: tin rằng người khác, vật gì đó ngoài Allah có quyền năng ban lợi hoặc gây hại, (2) lời nói, ví dụ: thề nhân danh người khác, vật gì đó ngoài Allah và (3) hành động, ví dụ: cúi đầu hoặc phủ phục trước người khác hoặc vật gì đó ngoài Allah.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/203.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/203.mp3" 
  		}
 	]
 }
