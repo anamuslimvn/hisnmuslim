@@ -1,13 +1,13 @@
 {
-	"Lời cầu nguyện cho người làm điều tốt với bạn": 
+	"Lời đáp lại khi có người nói: 'Cầu xin Allah tha thứ cho bạn'": 
 	[
 		{
-			"ID": 198,
-			"ARABIC_TEXT": "((جَزَاكَ اللَّهُ خَيْراً)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Nếu ai đó giúp bạn thì bạn nói: (Jazakal-lahu khayran.) thì bạn thực sự đã xuất sắc trong việc khen ngợi người đó.)", 
- 		    "TRANSLATED_TEXT":"(Nếu ai đó giúp bạn thì bạn nói: 'Cầu xin Allah ban tặng cho anh nhiều điều tốt.' thì bạn thực sự đã xuất sắc trong việc khen ngợi người đó.)", 
+			"ID": 197,
+			"ARABIC_TEXT": "((وَلَكَ)).", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"('Abdullah Ibn Sarjis (رضي الله عنه) nói: 'Tôi đến gặp Nabi (ﷺ) và ăn thức ăn của Người, sau đó nói với Người: (غَفـَرَ اللهُ لَـكَ - Ghafaral-lahu laka ya rasoolal-lah.) Người (ﷺ) đáp lại: (wa-lak))", 
+ 		    "TRANSLATED_TEXT":"('Abdullah Ibn Sarjis (رضي الله عنه) nói: 'Tôi đến gặp Nabi (ﷺ) và ăn thức ăn của Người, sau đó nói với Người: (Cầu xin Allah tha thứ cho Người, hỡi Sứ Giả của Allah.) Người (ﷺ) đáp lại: (Và cho cả người nữa.))", 
  		    "REPEAT": 1, 
-            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/198.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/197.mp3" 
  		}
 	]
 }
