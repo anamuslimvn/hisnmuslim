@@ -1,13 +1,13 @@
-﻿{
-	"The traveler's invocation at dawn": 
+{
+	"Lời cầu xin dành cho việc đi đường xa trong đêm lúc gần sáng": 
 	[
 		{
 			"ID": 215,
 			"ARABIC_TEXT": "((سَمَّعَ سَامِعٌ بِحَمْدِ اللَّهِ، وَحُسْنِ بَلاَئِهِ عَلَيْنَا، رَبَّنَا صاحِبْنَا، وَأَفْضِلْ عَلَيْنَا، عَائِذاً بِاللَّهِ مِنَ النَّارِ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(SamiAAa samiAAun bihamdil-lahi wahusni bala-ihi AAalayna. Rabbana sahibna wa-afdil AAalayna AAa-ithan billahi minan-nar.)", 
- 		    "TRANSLATED_TEXT":"(May a witness, be witness to our praise of Allah for His favours and bounties upon us.  Our Lord, protect us, show favour on us and deliver us from every evil.  I take refuge in Allah from the fire.)", 
+ 		    "TRANSLATED_TEXT":"(Ai nghe được lời ca tụng này và sự dũng cảm này của chúng tôi thì hãy truyền lại cho người khác. Thượng Đế của chúng tôi đồng hành cùng chúng tôi, Ngài là Đấng bảo vệ chúng tôi tránh mọi điều không thích và cũng là Đấng mà chúng tôi cầu xin che chở khỏi hỏa ngục.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/215.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/215.mp3" 
  		}
 	]
 }
