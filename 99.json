@@ -1,13 +1,13 @@
-﻿{
-	"Invocation for when your vehicle or mount begins to fail": 
+{
+	"Lời cầu nguyện khi xe hoặc vật cưỡi gặp sự cố": 
 	[
 		{
 			"ID": 210,
 			"ARABIC_TEXT": "((بِسْمِ اللَّهِ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Bismil-lah.)", 
- 		    "TRANSLATED_TEXT":"(In the name of Allah.)", 
+ 		    "TRANSLATED_TEXT":"(Nhân danh Allah.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/210.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/210.mp3" 
  		}
 	]
 }
