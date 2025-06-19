@@ -1,13 +1,13 @@
-﻿{
-	"How to reply to a disbeliever if he says Salam to you": 
+{
+	"Cách trả lời khi được người Kafir (ngoại đạo) chào Salam": 
 	[
 		{
 			"ID": 227,
 			"ARABIC_TEXT": "((إذَا سَلَّمَ عَلَيْكُمْ أَهْلُ الْكِتَابِ فَقُولُوا: وَعَلَيْكُمْ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"", 
- 		    "TRANSLATED_TEXT":"(When the people of the Book greet you, reply by saying: (And upon you.))", 
+ 		    "TRANSLATED_TEXT":"(Khi Dân Kinh Sách chào các người, hãy đáp lại bằng cách nói: 'Wa 'alaykum' (Và cũng xin cho các người như vậy).)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/227.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/227.mp3" 
  		}
 	]
 }
