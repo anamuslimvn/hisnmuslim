@@ -1,13 +1,13 @@
-﻿{
-	"Invocation for anger": 
+{
+	"Lời cầu nguyện khi tức giận": 
 	[
 		{
 			"ID": 193,
 			"ARABIC_TEXT": "((أَعُوذُ بِاللَّهِ مِنَ الشَّيْطَانِ الرَّجِيمِ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(aAAoothu billahi minash-shaytanir-rajeem.)", 
- 		    "TRANSLATED_TEXT":"(I take refuge with Allah from the accursed devil.)", 
+ 		    "TRANSLATED_TEXT":"(Bề tôi cầu xin Allah che chở tránh khỏi lũ Shayton đáng bị nguyền rủa.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/193.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/193.mp3" 
  		}
 	]
 }
