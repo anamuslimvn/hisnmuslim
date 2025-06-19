@@ -1,13 +1,13 @@
-﻿{
-	"Invocation (upon receipt of the loan) for someone who lends you money": 
+{
+	"Lời cầu nguyện (khi nhận khoản vay) cho người cho bạn mượn tiền": 
 	[
 		{
 			"ID": 202,
 			"ARABIC_TEXT": "((بارَكَ اللَّهُ لَكَ فِي أَهْلِكَ وَمَالِكَ، إِنَّمَا جَزَاءُ السَّلَفِ الْحَمْدُ وَالأَدَاءُ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Barakal-lahu laka fee ahlika wamalik, innama jaza-os-salafil-hamdu wal-ada'.)", 
- 		    "TRANSLATED_TEXT":"(May Allah bless for you, your family and wealth. Surely commendation and payment are the reward for a loan.)", 
+ 		    "TRANSLATED_TEXT":"(Cầu xin Allah ban hồng phúc cho gia đình anh và tài sản của anh. Và phần thưởng của việc cho mượn là lời cám ơn và trả lại vật mượn.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/202.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/202.mp3" 
  		}
 	]
 }
