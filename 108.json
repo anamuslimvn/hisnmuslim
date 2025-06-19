@@ -1,29 +1,29 @@
-﻿{
-	"spreading the greetings of Salam (Peace)": 
+{
+	"Lan tỏa lời chào Salam (Bình an)": 
 	[
 		{
 			"ID": 224,
 			"ARABIC_TEXT": "قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم: ((لاَ تَدْخُلُوا الْجَنَّةَ حَتَّى تُؤْمِنُوا، وَلاَ تُؤْمِنُوا حَتَّى تَحَابُّوا، أَوَلاَ أَدُلُّكُم عَلَى شَيْءٍ إِذَا فَعَلْتُمُوهُ تَحَابَبْتُم، أَفْشُوا السَّلاَمَ بَيْنَكُمْ)).", 
 			"LANGUAGE_ARABIC_TRANSLATED_TEXT":"", 
-  		    "TRANSLATED_TEXT":"(The Messenger of Allah  said: ‘You shall not enter paradise until you believe, and you shall not believe until you love one another. Shall I not inform you of something, if you were to act upon it, you will indeed achieve mutual love for one another?  Spread the greeting amongst yourselves.)", 
+  		    "TRANSLATED_TEXT":"Sứ Giả của Allah (ﷺ) nói: 'Các người sẽ không vào được Thiên Đàng cho đến khi các người có đức tin, và các người sẽ không có đức tin cho đến khi các người yêu thương lẫn nhau. Ta có nên cho các người biết một điều, nếu các người thực hiện, các người sẽ thực sự đạt được tình yêu thương lẫn nhau không? Hãy luôn chào nhau lời Salam.'", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/224.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/224.mp3" 
  		},
 		{
 			"ID": 225,
 			"ARABIC_TEXT": "((ثَلاَثٌ مَنْ جَمَعَهُنَّ فَقَدْ جَمَعَ الْإِيمَانَ: الْإِنْصَافُ مِنْ نَفْسِكَ، وَبَذْلُ السَّلاَمِ لِلْعَالَمِ، وَالْإِنْفَاقُ مِنَ الإِقْتَارِ)).", 
 			"LANGUAGE_ARABIC_TRANSLATED_TEXT":"", 
-  		    "TRANSLATED_TEXT":"(Aammar  said: ‘Three characteristics, whoever combines them, has completed his faith: to be just, to spread greetings to all people and to spend (charitably) out of the little you have.)", 
+  		    "TRANSLATED_TEXT":"'Ammar (رضي الله عنه) nói: 'Ba đặc điểm, ai kết hợp được chúng, người đó đã hoàn thiện đức tin của mình: công bằng với chính mình, lan tỏa lời chào đến tất cả mọi người, và chi tiêu (từ thiện) từ những gì ít ỏi mình có.'", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/225.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/225.mp3" 
  		},
 		{
 			"ID": 226,
 			"ARABIC_TEXT": "وَعَنْ عَبْدِ اللَّهِ بْنِ عُمَرَ رَضِيَ اللَّهُ عَنْهُمَا: أنَّ رَجُلاً سَأَلَ النَّبِيَّ صلى الله عليه وسلم أيُّ الْإِسْلاَمِ خَيْرٌ قَالَ: ((تُطْعِمُ الطَّعَامَ، وَتَقْرأُ السَّلاَمَ عَلَى مَنْ عَرَفْتَ وَمَنْ لَمْ تَعْرِفْ)).", 
 			"LANGUAGE_ARABIC_TRANSLATED_TEXT":"", 
-  		    "TRANSLATED_TEXT":"(Aabdullah Ibn Aamr  reported that a man asked the Prophet : ‘Which Islam is the best?’.  He  replied: Feed (the poor), and greet those whom you know as well as those whom you do not.)", 
+  		    "TRANSLATED_TEXT":"'Abdullah Ibn 'Amr (رضي الله عنه) tường thuật rằng có một người đàn ông hỏi Nabi (ﷺ): 'Islam nào là tốt nhất?'. Người (ﷺ) đáp: 'Cho (người nghèo) ăn, và chào những người mà ngươi biết cũng như những người ngươi không biết.'", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/226.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/226.mp3" 
  		}
 	]
 }
