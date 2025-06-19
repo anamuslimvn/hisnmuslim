@@ -1,13 +1,13 @@
-﻿{
-	"What to say when something that pleases you happens": 
+{
+	"Lời cầu nguyện khi có điều gì đó làm bạn hài lòng xảy ra": 
 	[
 		{
 			"ID": 242,
 			"ARABIC_TEXT": "((كَانَ النَّبيُّ صلى الله عليه وسلم إِذَا أَتَاهُ أَمْرٌ يَسُرُّهُ أَوْ يُسَرُّ بِهِ خَرَّ سَاجِداً شُكْراً لِلَّهِ تَبَارَكَ وَتَعَالَى)).", 
 			"LANGUAGE_ARABIC_TRANSLATED_TEXT":"",
-  		    "TRANSLATED_TEXT":"(The Prophet PBUH would prostrate in gratitude to Allah upon receiving news which pleased him or which caused pleasure. )", 
+  		    "TRANSLATED_TEXT":"Ông Abu Bakrah kể: “Khi Nabi ﷺ nhận được tin vui hoặc điều gì làm cho Người vui là Người liền cúi đầu phủ phục tạ ơn Allah, Đấng Ban Phát điều may mắn, Đấng Tối Cao.” Hadith do Abu Dawood, Al-Tirmizhi và Ibnu Majaah ghi.", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/242.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/242.mp3" 
  		}
 	]
 }
