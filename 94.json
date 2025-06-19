@@ -1,13 +1,13 @@
-﻿{
-	"Invocation against evil portent": 
+{
+	"Lời cầu nguyện chống lại điềm gở": 
 	[
 		{
 			"ID": 205,
 			"ARABIC_TEXT": "((اللَّهُمَّ لاَ طَيْرَ إِلاَّ طَيْرُكَ، وَلاَ خَيْرَ إِلاَّ خَيْرُكَ، وَلاَ إِلَهَ غَيْرُكَ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(This supplication is used whenever one initially thinks a casual event or occurrence to foretell good or evil, using it as a basis to determine which action he should undertake, but he then denounces such a link, relies on Allah and then says this supplication as an expiation for this act, since it falls under the category of shirk.)(Allahumma la tayra illa tayruk, wala khayra illa khayruk, wala ilaha ghayruk.)", 
- 		    "TRANSLATED_TEXT":"(This supplication is used whenever one initially thinks a casual event or occurrence to foretell good or evil, using it as a basis to determine which action he should undertake, but he then denounces such a link, relies on Allah and then says this supplication as an expiation for this act, since it falls under the category of shirk.)(O Allah, there is no omen but there is reliance on You, there is no good except Your good and none has the right to be worshipped except You.)", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Lời cầu nguyện này được sử dụng bất cứ khi nào một người ban đầu nghĩ rằng một sự kiện hoặc sự việc tình cờ nào đó báo trước điềm tốt hay điềm xấu, và dùng nó làm cơ sở để quyết định hành động nào mình nên làm, nhưng sau đó người đó phủ nhận mối liên hệ đó, quay trở về phó thác nơi Allah và sau đó đọc lời cầu nguyện này như một sự chuộc lỗi cho hành động vừa rồi, vì nó thuộc loại shirk.) (Allahumma la tayra illa tayruk, wala khayra illa khayruk, wala ilaha ghayruk.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, không có điềm xấu nào cả ngoại trừ điềm xấu của Ngài gián xuống, và cũng không có điềm tốt nào cả mà chỉ có điềm tốt của Ngài ban tặng. Và cũng không có Thượng Đế nào đích thực ngoại trừ Ngài.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/205.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/205.mp3" 
  		}
 	]
 }
