@@ -1,13 +1,13 @@
-﻿{
-	"What to say when you feel frightened: 
+{
+	"Lời cầu nguyện khi cảm thấy sợ hãi":
 	[
 		{
 			"ID": 245,
 			"ARABIC_TEXT": "((لاَ إِلَهَ إِلاَّ اللَّهُ!)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(La ilaha illal-lah.)", 
- 		    "TRANSLATED_TEXT":"(None has the right to be worshipped except Allah.)", 
+ 		    "TRANSLATED_TEXT":"(Không có Thượng Đế nào xứng đáng được thờ phụng ngoài Allah.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/245.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/245.mp3" 
  		}
 	]
 }
