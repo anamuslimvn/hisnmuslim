@@ -1,13 +1,13 @@
-﻿{
-	"Invocation for someone who tells you: May Allah bless you": 
+{
+	"Lời đáp lại khi có người nói: 'Cầu xin Allah ban phước cho bạn'": 
 	[
 		{
 			"ID": 204,
 			"ARABIC_TEXT": "((وَفِيكَ بَارَكَ اللَّهُ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Aaishah reported that the Messenger of Allah  was given a sheep and he ordered for it’s distribution.  When the servant would come back (from distributing it), AAaishah would ask: ‘What did they say?’, he replied: They would supplicate: (Barakal-lahu feekum.) AAaishah would then say: (Wafeehim barakal-lah.))(we return their supplication in a similar way and our reward remains with us.)", 
- 		    "TRANSLATED_TEXT":"(Aaishah reported that the Messenger of Allah  was given a sheep and he ordered for it’s distribution.  When the servant would come back (from distributing it), AAaishah would ask: ‘What did they say?’, he replied: They would supplicate: (May Allah bless you all.) AAaishah would then say: (and may Allah bless them.))(we return their supplication in a similar way and our reward remains with us.)", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Wa feeka barakal-lah.)", 
+ 		    "TRANSLATED_TEXT":"Bà 'Aishah (رضي الله عنه) kể rằng Sứ Giả của Allah (ﷺ) được tặng một con cừu và Người ra lệnh phân phát nó. Khi người hầu trở về (sau khi phân phát), bà 'Aishah hỏi: 'Họ nói gì?', người hầu trả lời: Họ cầu nguyện: (Barakal-lahu feekum - Cầu xin Allah ban hồng phúc cho người.) Bà 'Aishah liền nói: (Wa feehim barakal-lah - Và cầu xin Allah cũng ban hồng phúc cho họ.)\n\n(Bà giải thích rằng) 'Bầy tôi đáp lại lời cầu nguyện của họ một cách tương tự và phần thưởng của bầy tôi vẫn còn lại với bầy tôi.' \n\n(Câu đáp lại trong tiêu đề là 'Wa feeka barakal-lah', có nghĩa là: 'Và cầu xin Allah cũng ban hồng phúc cho họ'.)", 
  		    "REPEAT": 1, 
-            "AUDIO":"http://www.hisnmuslim.com/audio/ar/204.mp3" 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/204.mp3" 
  		}
 	]
 }
