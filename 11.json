@@ -4,10 +4,18 @@
 		{
 			"ID": 18,
 			"ARABIC_TEXT": "(بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا،).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Bismil-lahi walajna, wabismil-lahi kharajna, waAAala rabbina tawakkalna.)", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Bis mil la hi wa laj naa, wa bis mil la hi kho raj naa, wa a’ lol lo hi rab bi naa ta wak kal naa.)", 
  		    "TRANSLATED_TEXT":"(Nhân danh Allah bầy tôi bước vào và nhân danh Allah bầy tôi bước ra, và bầy tôi xin phó thác nơi Rabb của bầy tôi.)", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/18.mp3" 
+ 		},
+		{
+			"ID": 18b,
+			"ARABIC_TEXT": "(السَّلَامُ عَلَيكُمْ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ).", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(As sa la mu a’ lai kum wa roh ma tul lo hi wa ba ro kaa tuh” cho mọi người trong nhà.)", 
+ 		    "TRANSLATED_TEXT":"(Xin chúc bình an, lòng thương xót và hồng phúc từ Allah đến mọi người.)", 
+ 		    "REPEAT": 1, 
+            "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/18b.mp3" 
  		}
 	]
 }
