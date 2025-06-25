@@ -1,43 +1,43 @@
 {
-	"Những lời cầu nguyện khi nghe Athan (tiếng gọi cầu nguyện)": 
+	"Lời tụng niệm khi nghe Azan": 
 	[
 		{
 			"ID": 22,
 			"ARABIC_TEXT": " يَقُولُ مِثْلَ مَا يَقُولُ المُؤَذِّنُ إِلاَّ فِي ((حَيَّ عَلَى الصَّلَاةِ وَحَيَّ عَلَى الْفَلَاحِ)) فَيقُولُ: ((لاَ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِاللَّهِ)).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"", 
- 		    "TRANSLATED_TEXT":"'Người nghe lặp lại giống như người kêu gọi cầu nguyện (mu-adhdhin) nói, ngoại trừ khi ông ấy nói: Hayya 'alas-Salah (hoặc) hayya 'alal-Falah, có nghĩa là 'hãy đến cầu nguyện, hãy đến với thành công', thì thay vào đó, người nghe nên nói: La hawla wala quwwata illa billah. 'Không có sức mạnh cũng như quyền năng nào ngoài sức mạnh và quyền năng của Allah.'", 
+ 		    "TRANSLATED_TEXT":"'Khi nghe tiế Azan, Người nghe lặp lại giống như người gọi Azan (mu-adhdhin) nói, ngoại trừ câu: Hayya 'alas-Salah (hoặc) hayya 'alal-Falah, có nghĩa là 'hãy đến cầu nguyện, hãy đến với thành công', thì thay vào đó, người nghe nên nói: La hawla wala quwwata illa billah. 'Không có sức mạnh cũng như quyền năng nào ngoài sức mạnh và quyền năng của Allah.'", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/22.mp3" 
  		},
 		{
 			"ID": 23,
-			"ARABIC_TEXT": " يَقُولُ: ((وَأَنَا أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ وَأَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ، رَضِيتُ بِاللَّهِ رَبَّاً، وَبِمُحَمَّدٍ رَسُولاً، وَبِالْإِسْلاَمِ دِينَاً)) ((يَقُولُ ذَلِكَ عَقِبَ تَشَهُّدِ الْمُؤَذِّنِ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Ngay sau lời tuyên xưng đức tin của người kêu gọi (mu-adhdhin), người nghe đọc: Wa-ana ashhadu an la ilaha illal-lahu wahdahu la shareeka lah, wa-anna Muhammadan AAabduhu warasooluh, radeetu billahi rabban wabimuhammadin rasoolan wabil-islami deena.", 
- 		    "TRANSLATED_TEXT":"Ngay sau lời tuyên xưng đức tin của người kêu gọi (mu-adhdhin), người nghe đọc: 'Và bề tôi cũng xin làm chứng rằng không có Thượng Đế nào xứng đáng được thờ phụng ngoài Allah, Đấng duy nhất, không có đối tác, và rằng Muhammad là nô lệ và Sứ Giả của Ngài. Bề tôi hài lòng với Allah là Rabb, với Muhammad là Sứ Giả và với Islam là tôn giáo.'", 
+			"ARABIC_TEXT": "وَأَنَا أَشْـهَدُ أَنْ لَا إِلَـٰهَ إِلَّا اللهُ وَحْـدَهُ لَا شَـرِيكَ لَـهُ، وَأَنَّ مُحَمَّـداً عَبْـدُهُ وَرَسُـولُهُ، رَضِيـتُ بِاللهِ رَبّـاً، وَبِمُحَمَّـدٍ رَسُـولاً، وَبِالإِسْـلَامِ دِينـاً", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Lời tụng niệm sau Azan: Wa a na ash ha du al laa i laa ha il lol lo hu wah da hu laa sha ri ka lah, wa an na mu ham ma dan a’b du hu wa ro su luh, ro dhi tu bil la hi rab ba, wa bi mu ham mad ro su la, wa bil is laa mi di na.", 
+ 		    "TRANSLATED_TEXT":"Và tôi xin tuyên thệ không có Thượng Đế nào đích thực ngoại trừ Allah duy nhất không có cộng tác với Ngài và xin chứng nhận Muhammad là bề tôi, là Thiên Sứ của Ngài. Tôi đã hài lòng Allah là Thượng Đế, hài lòng Muhammad ﷺ là Thiên Sứ và hài lòng Islam là chính đạo", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/23.mp3" 
  		},
 		{
 			"ID": 24,
-			"ARABIC_TEXT": " ((يُصَلِّي عَلَى النَّبِيِّ صلى الله عليه وسلم بَعْدَ فَرَاغِهِ مِنْ إِجَابَةِ الْمُؤَذِّنِ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"", 
- 		    "TRANSLATED_TEXT":"'Sau đó, người nghe nên cầu nguyện phước lành cho Nabi (sal-Allaahu 'alayhe wa sallam) sau khi đáp lại lời kêu gọi của người mu-adhdhin'.", 
+			"ARABIC_TEXT": " (اللَّهُـمَّ صَلِّ وَسَـلِمْ عَلَـى نَبِيِنَـا مُحَمَّـدٍ).", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Ol lo hum ma sol li wa sal lim a’ la na bi yi naa mu ham mad.", 
+ 		    "TRANSLATED_TEXT":"Lạy Allah, xin hãy ban hồng phúc và sự bình an cho Nabi Muhammad của bầy tôi", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/24.mp3" 
  		},
 		{
 			"ID": 25,
-			"ARABIC_TEXT": "يَقُولُ: ((اللَّهُمَّ رَبَّ هَذِهِ الدَّعْوَةِ التَّامَّةِ، وَالصَّلاَةِ الْقَائِمَةِ، آتِ مُحَمَّداً الْوَسِيلَةَ وَالْفَضِيلَةَ، وَابْعَثْهُ مَقَامَاً مَحمُوداً الَّذِي وَعَدْتَهُ، [إِنَّكَ لَا تُخْلِفُ الْمِيعَادَ])).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Allahumma rabba hathihid-daAAwatit-tammah, wassalatil-qa-imah ati Muhammadan alwaseelata wal-fadeelah, wabAAath-hu maqaman mahmoodan allathee waAAadtah, innaka la tukhliful-meeAAad.", 
- 		    "TRANSLATED_TEXT":"'Lạy Allah, Chủ Nhân của lời kêu gọi hoàn hảo này và của buổi lễ nguyện sắp được thực hiện, xin hãy ban cho Muhammad Al-Wasilah và Al-Fadilah, và xin hãy đưa Người đến một địa vị đáng được ca tụng mà Ngài đã hứa với Người. Quả thật, Ngài không bao giờ thất hứa.'\nAl-Wasilah: Một địa vị trong Thiên Đàng.\nAl-Fadilah: Một cấp bậc cao hơn phần còn lại của tạo vật.\nĐịa vị đáng được ca tụng: Một địa vị mà tất cả tạo vật sẽ ca ngợi Người, để nhanh chóng thực hiện việc phán xét và được giải thoát khỏi việc phải đứng chờ đợi lâu dài hoặc vai trò can thiệp.", 
+			"ARABIC_TEXT": "اللَّهُـمَّ رَبَّ هَـذِهِ الدَّعْوَةِ التَّـامَّةِ، وَالصَّـلَاةِ الْقَـائِمَةِ، آتِ مُحَمَّـدًا الْوَسِـيلَةَ وَالْفَضِـيلَةَ، وَابْعَثْـهُ مَقَامـاً مَحْمُـوداً الَّذِي وَعَـدْتَهُ، إِنَّكَ لَا تُخْـلِفُ الْمِيـعَادَ", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Ol lo hum ma rab ba ha zi hid da’ wa tit t.a.m mah, wos so laa til qo i mah, a ti mu ham ma dal wa si lah wal fa dhi lah, wab a’th hu ma qo man mah du da, al la zi wa a’d tah, in na ka laa tukh li ful mi a’d. Nabi ﷺ nói: “Ai cầu xin (như vậy sau Azan) thì y được Ta biện hộ cho vào ngày sau.” Hadith do Al-Bukhari ghi.", 
+ 		    "TRANSLATED_TEXT":"Lạy Allah, Ngài là Chủ Nhân của lời kêu gọi này, là Chủ Nhân của sự bình an vĩnh hằng. Cầu xin Ngài hãy ban cho Nabi Muhammad ngôi nhà trên thiên đàng, ở trên một địa vị cao nhất trên mọi tạo vật. Và hãy phục sinh Người lại vào ngày phán xử trên cương vị được mọi người khen ngợi. Quả thực, Ngài không bao giờ bội tín", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/25.mp3" 
  		},
 		{
 			"ID": 26,
-			"ARABIC_TEXT": "((يَدْعُو لِنَفسِهِ بَيْنَ الْأَذَانِ وَالْإِقَامَةِ فَإِنَّ الدُّعَاءَ حِينَئِذٍ لاَ يُرَدُّ)).", 
+			"ARABIC_TEXT": "يَدْعُو لِنَفْسِهِ بَينَ الْأَذَانِ وَالإِقَامَةِ، فَإِنَّ الدُّعَاءَ حِينَئِذٍ لَا يُرَدُّ.", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"", 
- 		    "TRANSLATED_TEXT":"Người nghe cũng nên cầu nguyện cho bản thân trong khoảng thời gian giữa Athan và Iqamah, vì lời cầu nguyện vào thời điểm đó sẽ không bị từ chối.", 
+ 		    "TRANSLATED_TEXT":"Hãy cầu xin cho bản thân trong khoảng giữa Azan và Iqomah. Quả thực, lời cầu xin lúc đó không bị từ chối. Hadith do Abu Dawood, Al-Tirmizhi và Ahmad ghi.", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/26.mp3" 
  		}
