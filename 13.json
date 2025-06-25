@@ -2,7 +2,7 @@
 	"Lời cầu nguyện khi vào Masjid": 
 	[
 		{
-			"ID": 20a,
+			"ID": "20a",
 			"ARABIC_TEXT": "بِسْـمِ اللهِ، وَالصَّـلَاةُ وَالسَّـلَامُ عَلَـى رَسُـولِ اللهِ", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Bis mil lah, wos so laa tu, was sa laa mu a’ la ro su lil lah", 
  		    "TRANSLATED_TEXT":"Nhân danh Allah, cầu xin Allah ban hồng ân và sự bình an cho Thiên Sứ của Ngài", 
@@ -10,7 +10,7 @@
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/20a.mp3" 
  		},
 		{
-			"ID": 20b,
+			"ID": "20b",
 			"ARABIC_TEXT": "اللَّهُـمَّ افْتَـحْ لِـي أَبْوَابَ رَحْـمَتِكَ", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Ol lo hum maf tah li ab waa ba roh ma tik", 
  		    "TRANSLATED_TEXT":"Lạy Allah, cầu xin Ngài hãy mở các cánh cửa khoan dung độ lượng của Ngài cho bề tôi", 
