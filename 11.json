@@ -1,11 +1,11 @@
 {
-	"Lời cầu nguyện khi vào nhà": 
+	"Lời tụng niệm khi vào nhà": 
 	[
 		{
 			"ID": 18,
 			"ARABIC_TEXT": "(بِسْمِ اللَّهِ وَلَجْنَا، وَبِسْمِ اللَّهِ خَرَجْنَا، وَعَلَى اللَّهِ رَبِّنَا تَوَكَّلْنَا،).", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Bis mil la hi wa laj naa, wa bis mil la hi kho raj naa, wa a’ lol lo hi rab bi naa ta wak kal naa.)", 
- 		    "TRANSLATED_TEXT":"(Nhân danh Allah bầy tôi bước vào và nhân danh Allah bầy tôi bước ra, và bầy tôi xin phó thác nơi Rabb của bầy tôi.)", 
+ 		    "TRANSLATED_TEXT":"(Nhân danh Allah bầy tôi vào, nhân danh Allah bầy tôi đã ra và chỉ có Allah là Thượng Đế của bầy tôi mà bầy tôi ủy thác.)", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/18.mp3" 
  		},
