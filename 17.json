@@ -1,11 +1,11 @@
 ﻿{
-	"Invocations during Ruki' (bowing in prayer)": 
+	"Lời cầu xin khi Rukua’": 
 	[
 		{
 			"ID": 33,
 			"ARABIC_TEXT": "سُبْحانَ رَبِّيَ الْعَظِيمِ", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Subhana rabbiyal-AAatheem (three times))", 
- 		    "TRANSLATED_TEXT":"(How perfect my Lord is, The Supreme.’(three times))", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Sub haa na rab bi yal a’ zim (đọc 3 lần)", 
+ 		    "TRANSLATED_TEXT":"(Vinh quang thay Thượng Đế của bề tôi, Ngài vĩ đại nhất’(đọc 3 lần))", 
  		    "REPEAT": 3, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/33.mp3" 
  		},
@@ -20,24 +20,24 @@
 		{
 			"ID": 35,
 			"ARABIC_TEXT": "سُبُّوُحٌ، قُدُّوسٌ، رَبُّ المَلاَئِكَةِ وَالرُّوحِ", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Subboohun quddoos, rabbul-mala-ikati warrooh.)", 
- 		    "TRANSLATED_TEXT":"(Perfect and Holy (He is), Lord of the angles and the Rooh (i.e. Jibra-eel).)", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Sub bu hun, qud du sun, rab bul ma laa i ka ti war ruh", 
+ 		    "TRANSLATED_TEXT":"Vinh quang thay, trong sạch thay Thượng Đế của Thiên Thần và Ruh (Jibril).", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/35.mp3" 
  		},
 		{
 			"ID": 36,
 			"ARABIC_TEXT": "لَّهُمَّ لَكَ رَكَعْتُ، وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، خَشَعَ لَكَ سَمْعِي، وَبَصَرِي، وَمُخِّي، وَعَــــظْمِي، وَعَصَبِي، [وَمَا استَقَلَّتْ بِهِ قَدَمِي].", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma laka rakaAAt, wabika amant, walaka aslamt, khashaAAa laka samAAee, wabasaree, wamukhkhee, waAAathmee, waAAasabee, wamas-taqalla bihi qadamee.)", 
- 		    "TRANSLATED_TEXT":"(O Allah, unto You I have bowed, and in You I have believed, and to You I have submitted. My hearing, sight, mind, bones, tendons and what my feet carry are humbled before You.)", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Ol lo hum ma la ka ro ka’ tu, wa bi ka ã man tu, wa la ka as lam tu, kho sha a’ la ka sam i’, wa ba so ri, wa mukh khi, wa o’z mi, wa a’ so bi, wa mas taq ba lat bi hi qa da mi.)", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, vì Ngài bề tôi Rukua’, vì Ngài bề tôi tin tưởng, vì Ngài bề tôi phủ phục, vì Ngài mà thính giác, thị giác, trí tuệ, xương cốt lẫn toàn cơ thể và tất cả những gì đôi chân bề tôi chịu đựng đều kính sợ Ngài.)", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/36.mp3" 
  		},
 		{
 			"ID": 37,
 			"ARABIC_TEXT": "سُبْحَانَ ذِي الْجَبَرُوتِ، وَالْمَلَكُوتِ، وَالْكِبْرِيَاءِ، وَالْعَظَمَةِ.", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Subhana thil-jabaroot, walmalakoot, walkibriya/, walAAathamah.)", 
- 		    "TRANSLATED_TEXT":"(How perfect He is, The Possessor of total power, sovereignty, magnificence and grandeur.)", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Sub haa na zil ja ba rut, wal ma la kut, wal kib ri ya, wal a’ zo mah.", 
+ 		    "TRANSLATED_TEXT":"Vinh quang thay Đấng có uy quyền tối cao, Đấng sở hữu tất cả, Đấng Tự Cao Tự Đại và Đấng Vĩ Đại.", 
  		    "REPEAT": 1, 
             "AUDIO":"http://www.hisnmuslim.com/audio/ar/37.mp3" 
  		}
