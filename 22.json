@@ -1,11 +1,11 @@
 {
-	"Lời cầu nguyện trong lúc At-Tashahhud (ngồi trong lễ nguyện)": 
+	"Lời cầu xin lúc Al-Ta-shah-hud": 
 	[
 		{
 			"ID": 52,
-			"ARABIC_TEXT": "((التَّحِيَّاتُ لِلَّهِ، وَالصَّلَواتُ، وَالطَّيِّباتُ، السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ. أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسولُهُ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Attahiyyatu lillahi wassalawatu wattayyibat, assalamu AAalayka ayyuhan-nabiyyu warahmatul-lahi wabarakatuh, assalamu AAalayna waAAala AAibadil-lahis-saliheen. Ash-hadu an la ilaha illal-lah, wa-ashhadu anna Muhammadan AAabduhu warasooluh.)", 
- 		    "TRANSLATED_TEXT":"(Mọi lời khen ngợi, mọi sự tôn vinh (At-tahiyyat) đều dành cho Allah. Mọi hành vi thờ phượng và việc làm tốt đẹp đều dành cho Ngài. Xin bình an, lòng thương xót và phước lành của Allah đến với Ngài, hỡi vị Nabi. Xin bình an đến với bầy tôi và tất cả các bề tôi ngoan đạo của Allah. Bề tôi xin làm chứng rằng không có Thượng Đế nào xứng đáng được thờ phụng ngoài Allah và bề tôi xin làm chứng rằng Muhammad là nô lệ và Sứ Giả của Ngài.)\n(At-tahiyyat: tất cả những từ ngữ thể hiện sự tôn vinh Allah. Sự tồn tại vĩnh cửu, sự hoàn hảo và vương quyền của Ngài.)", 
+			"ARABIC_TEXT": "التَّحِيَّاتُ لِلَّهِ، وَالصَّلَواتُ، وَالطَّيِّباتُ، السَّلاَمُ عَلَيْكَ أَيُّهَا النَّبِيُّ وَرَحْمَةُ اللَّهِ وَبَرَكَاتُهُ، السَّلاَمُ عَلَيْنَا وَعَلَى عِبَادِ اللَّهِ الصَّالِحِينَ. أَشْهَدُ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَشْهَدُ أَنَّ مُحَمَّداً عَبْدُهُ وَرَسولُهُ.", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"At ta hi da tu lil lah, wos so la waa tu wat toy yi b.a.t, as sa laa mu a' lai ka ai yu han na bi yu wa roh ma tul lo hi wa ba ro kaa tuh, as sa la mu a’ lai naa wa a' la i' baa dil la his so li h.i.n, ash ha du al laa i laa ha il lol loh, wa ash ha du an na mu ham ma dan a’b du hu wa ro su luh. (Hadith do Al-Bukhari và Muslim ghi)", 
+ 		    "TRANSLATED_TEXT":"(Mọi điều bình an, tốt đẹp và những hành động tôn thờ là của Allah. Cầu xin Ngài ban bình an, sự khoan dung và phúc lành cho Nabi, cho bầy tôi và cho tất cả người đạo hạnh trong số bầy tôi của Ngài. Tôi xin tuyên thệ không có Thượng Đế nào đích thực ngoại trừ Allah và xin chứng nhận Muhammad là bề tôi, là vị Thiên Sứ của Ngài.)", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/52.mp3" 
  		}
