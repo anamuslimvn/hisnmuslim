@@ -51,7 +51,7 @@
  		},
 		{
 			"ID": 72,
-			"ARABIC_TEXT": "لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ)) عَشْرَ مَرّاتٍ بَعْدَ صَلاةِ الْمَغْرِبِ وَالصُّبْحِ.", 
+			"ARABIC_TEXT": "لاَ إِلَهَ إِلاَّ اللَّهُ وَحْدَهُ لاَ شَرِيكَ لَهُ، لَهُ الْمُلْكُ وَلَهُ الْحَمْدُ يُحْيِي وَيُمِيتُ وَهُوَ عَلَى كُلِّ شَيْءٍ قَدِيرٌ.", 
   		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(La ilaha illal-lahu wahdahu la shareeka lah, lahul-mulku walahul-hamd, yuhyee wayumeet, wahuwa AAala kulli shayin qadeer. (mười lần sau lễ nguyện Maghrib và Fajr))", 
  		    "TRANSLATED_TEXT":"(Không có Thượng Đế nào xứng đáng được thờ phụng ngoài Allah, Đấng duy nhất, không có đối tác. Mọi vương quyền và mọi lời ca tụng đều thuộc về Ngài, Ngài ban sự sống và gây ra cái chết, và Ngài toàn năng trên tất cả mọi thứ. (mười lần sau lễ nguyện Maghrib và Fajr))", 
  		    "REPEAT": 10, 
@@ -59,8 +59,8 @@
  		},
 		{
 			"ID": 73,
-			"ARABIC_TEXT": "((اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْماً نافِعاً، وَرِزْقاً طَيِّباً، وَعَمَلاً مُتَقَبَّلاً)) bَعْدَ السّلامِ مِنْ صَلاَةِ الفَجْرِ.", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma innee as-aluka AAilman nafiAAan, warizqan tayyiban, waAAamalan mutaqabbalan. (sau khi chào salam của lễ nguyện fajr))", 
+			"ARABIC_TEXT": "اللَّهُمَّ إِنِّي أَسْأَلُكَ عِلْماً نافِعاً، وَرِزْقاً طَيِّباً، وَعَمَلاً مُتَقَبَّلاً.", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma innee as-aluka AAilman nafiAAan, warizqan tayyiban, waAAamalan mutaqabbalan. (sau lễ nguyện fajr))", 
  		    "TRANSLATED_TEXT":"(Lạy Allah, bề tôi cầu xin Ngài kiến thức hữu ích, bổng lộc tốt lành và những việc làm được chấp nhận. (Đọc sau khi chào Salam của lễ nguyện Fajr))", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/73.mp3" 
