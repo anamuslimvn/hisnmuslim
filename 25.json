@@ -1,11 +1,11 @@
 {
-	"Lời cầu nguyện sau khi hoàn thành lễ nguyện": 
+	"Những lời tụng niệm sau những lần Salah bắt buộc": 
 	[
 		{
 			"ID": 66,
-			"ARABIC_TEXT": "((أَسْتَغْفِرُ اللَّهَ (ثَلاَثَاً) اللَّهُمَّ أَنْتَ السَّلاَمُ، وَمِنْكَ السَّلاَمُ، تَبَارَكْتَ يَا ذَا الْجَلاَلِ وَالْإِكْرَامِ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Astaghfirul-lah (ba lần) (Allahumma antas-salam waminkas-salam, tabarakta ya thal-jalali wal-ikram.))", 
- 		    "TRANSLATED_TEXT":"(Bề tôi xin Allah tha thứ. (ba lần) (Lạy Allah, Ngài là As-Salam và từ Ngài là mọi sự bình an, Ngài thật phước hạnh, hỡi Đấng Sở Hữu sự uy nghiêm và danh dự.) (As-Salam: Đấng Hoàn Toàn không có mọi khuyết điểm và thiếu sót.))", 
+			"ARABIC_TEXT": "أَسْـتَغْفِـرُ اللهَ", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Đọc ba lần câu “As tagh fi rul lah.” Hadith do Muslim ghi.", 
+ 		    "TRANSLATED_TEXT":"Bề tôi cầu xin Allah tha thứ. (ba lần)", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/66.mp3" 
  		},
