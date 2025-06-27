@@ -1,59 +1,59 @@
 {
-	"Lời cầu nguyện trong lúc Sujood (phủ phục)": 
+	"Lời cầu xin lúc quỳ lạy Sujood": 
 	[
 		{
 			"ID": 41,
-			"ARABIC_TEXT": "((سُبْحَانَ رَبِّيَ الأَعْلَى)) ثلاث مرَّاتٍ.", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Subhana rabbiyal-aAAla. (ba lần)))", 
- 		    "TRANSLATED_TEXT":"(Thật vinh quang thay Rabb của bề tôi, Đấng Tối Cao.’ (ba lần))", 
+			"ARABIC_TEXT": "سُبْحَانَ رَبِّيَ الأَعْلَى", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Sub haa na rab bi yal a’ la. (ba lần)", 
+ 		    "TRANSLATED_TEXT":"Vinh quang thay Thượng Đế của bề tôi, Ngài tối cao nhất. (ba lần)", 
  		    "REPEAT": 3, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/41.mp3" 
  		},
 		{
 			"ID": 42,
-			"ARABIC_TEXT": "((سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ، اللَّهُمَّ اغْفِرْ لِي)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Subhanakal-lahumma rabbana wabihamdik, allahummagh- fir lee.)", 
- 		    "TRANSLATED_TEXT":"(Thật vinh quang thay Ngài, lạy Allah, Rabb của bầy tôi, và bề tôi ca ngợi Ngài. Lạy Allah, xin hãy tha thứ cho bề tôi.)", 
+			"ARABIC_TEXT": "سُبْحَانَكَ اللَّهُمَّ رَبَّنَا وَبِحَمْدِكَ، اللَّهُمَّ اغْفِرْ لِي.", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Sub haa na kol lo hum ma rab ba naa wa bi ham dik, ol lo hum magh fir li", 
+ 		    "TRANSLATED_TEXT":"Vinh quang thay Ngài, Thượng Đế của bầy tôi và bằng lời ca ngợi Ngài mà tụng niệm tán dương, xin Ngài hãy tha thứ cho bề tôi.", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/42.mp3" 
  		},
 		{
 			"ID": 43,
-			"ARABIC_TEXT": "((سُبوحٌ، قُدُّوسٌ، رَبُّ الْمَلَائِكَةِ وَالرُّوحِ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Subbohoon quddos, rabbul-mala-ikati warrooh.)", 
- 		    "TRANSLATED_TEXT":"(Ngài thật Hoàn Hảo và Thánh Thiện, Rabb của các Thiên Thần và của Ar-Ruh (tức là Jibril).)", 
+			"ARABIC_TEXT": "سُبوحٌ، قُدُّوسٌ، رَبُّ الْمَلَائِكَةِ وَالرُّوحِ.", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Sub bu hun, qud du sun, rab bul ma laa i ka ti war ruh.", 
+ 		    "TRANSLATED_TEXT":"Vinh quang thay, trong sạch thay Thượng Đế của Thiên Thần và Ruh (Jibril).", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/43.mp3" 
  		},
 		{
 			"ID": 44,
-			"ARABIC_TEXT": "((اللَّهُمَّ لَكَ سَجَدْتُ وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، سَجَدَ وَجْهِيَ لِلَّذِي خَلَقَهُ، وَصَوَّرَهُ، وَشَقَّ سَمْعَهُ وَبَصَرَهُ، تَبَارَكَ اللَّهُ أَحْسنُ الْخَالِقينَ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma laka sajadt, wabika amant, walaka aslamt, sajada wajhee lillathee khalaqahu wasawwarahu washaqqa samAAahu wabasarahu, tabarakal-lahu ahsanul-khaliqeen.)", 
- 		    "TRANSLATED_TEXT":"(Lạy Allah, trước Ngài bề tôi xin phủ phục, nơi Ngài bề tôi đã tin tưởng, và với Ngài bề tôi đã quy phục. Gương mặt của bề tôi đã phủ phục trước Đấng đã tạo ra nó và định hình nó, và đã ban cho nó khả năng nghe và nhìn. Thật phước hạnh thay Allah, Đấng Sáng Tạo Tốt Nhất.)", 
+			"ARABIC_TEXT": "اللَّهُمَّ لَكَ سَجَدْتُ وَبِكَ آمَنْتُ، وَلَكَ أَسْلَمْتُ، سَجَدَ وَجْهِيَ لِلَّذِي خَلَقَهُ، وَصَوَّرَهُ، وَشَقَّ سَمْعَهُ وَبَصَرَهُ، تَبَارَكَ اللَّهُ أَحْسنُ الْخَالِقينَ.", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Ol lo hum ma la ka sa jad tu, wa bi ka ã man tu, wa la ka as lam tu, sa ja da waj hi lil la zi kho la qoh, wa saw wa roh, wa shaq qo sam a’h, wa ba so roh, ta baa ro lol lo hu ah sa nul kho li q.i.n", 
+ 		    "TRANSLATED_TEXT":"(Lạy Allah, vì Ngài bề tôi quỳ lạy, vì Ngài bề tôi tin tưởng và cũng vì Ngài bề tôi phủ phục. Đây bề tôi cúi mặt quỳ lạy Ngài, Đấng đã tạo hóa ra nó và làm cho nó hoàn hảo đồng thời tạo cho nó thính giác và thị giác, phúc thay Allah, Đấng xuất sắc nhất trong những ai tạo hóa.)", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/44.mp3" 
  		},
 		{
 			"ID": 45,
-			"ARABIC_TEXT": "((سُبْحَانَ ذِي الْجَبَرُوتِ، وَالْمَلَكُوتِ، وَالْكِبْرِيَاءِ، وَالْعَظَمَةِ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Subhana thil-jabaroot, walmalakoot, walkibriya/, walAAathamah.)", 
- 		    "TRANSLATED_TEXT":"(Thật vinh quang thay Ngài, Đấng Sở Hữu quyền năng tuyệt đối, vương quyền, sự vĩ đại và uy nghi.)", 
+			"ARABIC_TEXT": "سُبْحَانَ ذِي الْجَبَرُوتِ، وَالْمَلَكُوتِ، وَالْكِبْرِيَاءِ، وَالْعَظَمَةِ.", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Sub haa na zil ja ba rut, wal ma la kut, wal kib ri ya, wal a’ zo mah.", 
+ 		    "TRANSLATED_TEXT":"Vinh quang thay Đấng có uy quyền tối cao, Đấng sở hữu tất cả, Đấng Tự Cao Tự Đại và Đấng Vĩ Đại.", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/45.mp3" 
  		},
 		{
 			"ID": 46,
-			"ARABIC_TEXT": "((اللَّهُمَّ اغْفِرْ لِي ذَنْبِي كُلَّهُ: دِقَّهُ وَجِلَّهُ، وَأَوَّلَهُ وَآخِرَهُ، وَعَلاَنِيَّتَهُ وَسِرَّهُ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahummagh-fir lee thanbee kullah, diqqahu wajillah, wa-awwalahu wa-akhirah, wa- AAalaniyyatahu wa-sirrah.)", 
- 		    "TRANSLATED_TEXT":"(Lạy Allah, xin hãy tha thứ cho bề tôi tất cả tội lỗi, từ nhỏ đến lớn, từ đầu đến cuối, và cả những tội lỗi đã được thấy và những tội lỗi bị che giấu.)", 
+			"ARABIC_TEXT": "اللَّهُمَّ اغْفِرْ لِي ذَنْبِي كُلَّهُ: دِقَّهُ وَجِلَّهُ، وَأَوَّلَهُ وَآخِرَهُ، وَعَلاَنِيَّتَهُ وَسِرَّهُ.", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Ol lo hum magh fir li zam bi kul lah, diq qo hu wa jil lah, wa aw wa lu hu wa ã khi roh, wa a’ laa ni ya ta hu wa sir roh.", 
+ 		    "TRANSLATED_TEXT":"Lạy Allah, xin hãy tha thứ mọi tội lỗi cho bề tôi cho dù đã phạm ít hay nhiều, cả quá khứ lẫn tương lai, tất cả tội lỗi đã phơi bầy hay còn giấu kín.", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/46.mp3" 
  		},
 		{
 			"ID": 47,
-			"ARABIC_TEXT": "((اللَّهُمَّ إِنِّي أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِمُعَافَاتِكَ مِنْ عُقوبَتِكَ، وَأَعُوذُ بِكَ مِنْكَ، لاَ أُحْصِي ثَنَاءً عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahumma innee aAAoothu biridaka min sakhatik, wa-bimuAAafatika min AAuqoobatik, wa-aAAoothu bika mink, la ohsee thana-an AAalayk, anta kama athnayta AAala nafsik.)", 
- 		    "TRANSLATED_TEXT":"(Lạy Allah, bề tôi xin nương náu nơi sự hài lòng của Ngài khỏi sự không hài lòng của Ngài, và nơi sự tha thứ của Ngài khỏi sự trừng phạt của Ngài, và bề tôi xin nương náu nơi Ngài khỏi chính Ngài. Bề tôi không thể kể hết lời ca ngợi Ngài, Ngài chính là như Ngài đã tự ca ngợi mình.)", 
+			"ARABIC_TEXT": "اللَّهُمَّ إِنِّي أَعُوذُ بِرِضَاكَ مِنْ سَخَطِكَ، وَبِمُعَافَاتِكَ مِنْ عُقوبَتِكَ، وَأَعُوذُ بِكَ مِنْكَ، لاَ أُحْصِي ثَنَاءً عَلَيْكَ، أَنْتَ كَمَا أَثْنَيْتَ عَلَى نَفْسِكَ.", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Ol lo hum ma in ni a u’ zu bi ri dho ka min sa kho tik, wa bi mu ã’ faa ti ka min u’ qu ba tik, wa a u’ zu bi ka min ka, laa uh si tha naa anh a’ lai ka, an ta ka maa ath nai ta a’ la naf sik.", 
+ 		    "TRANSLATED_TEXT":"Lạy Allah, bề tôi cầu xin sự hài lòng của Ngài che chở khỏi sự giận dữ của Ngài, cầu xin sự thứ của Ngài tránh khỏi hành phạt của Ngài, xin Ngài đừng bắt tội về những gì bề tôi không có khả năng thực hiện, cho dù bề tôi có ca tụng Ngài thế nào cũng không thể đủ, Ngài là Đấng xứng đáng với những gì mà Ngài đã tự ca ngợi.", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/47.mp3" 
  		}
