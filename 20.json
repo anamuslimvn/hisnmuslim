@@ -3,17 +3,17 @@
 	[
 		{
 			"ID": 48,
-			"ARABIC_TEXT": "((رَبِّ اغْفِرْ لِي، رَبِّ اغْفِرْ لِي)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Rabbigh-fir lee, rabbigh-fir lee.)", 
- 		    "TRANSLATED_TEXT":"(Lạy Rabb của bề tôi, xin tha thứ cho bề tôi, lạy Rabb của bề tôi, xin tha thứ cho bề tôi.)", 
+			"ARABIC_TEXT": "رَبِّ اغْفِرْ لِي، رَبِّ اغْفِرْ لِي.", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Rab bigh fir li, rab bigh fir li.", 
+ 		    "TRANSLATED_TEXT":"Lạy Thượng Đế của bề tôi, xin hãy dung thứ tội lỗi cho bề tôi.", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/48.mp3" 
  		},
 		{
 			"ID": 49,
-			"ARABIC_TEXT": "((اللَّهُمَّ اغْفِرْ لِي، وَارْحَمْنِي، وَاهْدِنِي، وَاجْبُرْنِي، وَعَافِنِي، وَارْزُقْنِي، وَارْفَعْنِي)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Allahummagh-fir lee, warhamnee, wahdinee, wajburnee, waAAafinee, warzuqnee warfaAAnee.)", 
- 		    "TRANSLATED_TEXT":"(Lạy Allah, xin hãy dung thứ, khoan dung độ lượng và dẫn dắt bề tôi. Cầu xin Ngài ban cho bề tôi phú quí, sự lành mạnh, bổng lộc và nâng cao địa vị của bề tôi (ở trần gian và ngày sau))", 
+			"ARABIC_TEXT": "اللَّهُمَّ اغْفِرْ لِي، وَارْحَمْنِي، وَاهْدِنِي، وَاجْبُرْنِي، وَعَافِنِي، وَارْزُقْنِي، وَارْفَعْنِي.", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Ol lo hum magh fir li, war ham ni, wah di ni, waj bur ni, wa ã’ fi ni, war zuq ni, war fa’ ni.", 
+ 		    "TRANSLATED_TEXT":"Lạy Allah, xin hãy dung thứ, khoan dung độ lượng và dẫn dắt bề tôi. Cầu xin Ngài ban cho bề tôi phú quí, sự lành mạnh, bổng lộc và nâng cao địa vị của bề tôi (ở trần gian và ngày sau).", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/49.mp3" 
  		}
