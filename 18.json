@@ -1,27 +1,27 @@
 {
-	"Lời cầu nguyện khi đứng dậy từ Ruku'": 
+	"Lời cầu xin đứng trở lại sau Rukua’": 
 	[
 		{
 			"ID": 38,
-			"ARABIC_TEXT": "((سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(SamiAAal-lahu liman hamidah)", 
- 		    "TRANSLATED_TEXT":"(Cầu xin Allah đáp lại người ca ngợi Ngài.) (Lời cầu nguyện này được đọc khi đang đứng dậy.)", 
+			"ARABIC_TEXT": "سَمِعَ اللَّهُ لِمَنْ حَمِدَهُ.", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Sa mi ol lo hu li man ha mi dah.", 
+ 		    "TRANSLATED_TEXT":"Allah nghe thấy tất cả lời ca ngợi của ai tán dương ca tụng Ngài.", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/38.mp3" 
  		},
 		{
 			"ID": 39,
-			"ARABIC_TEXT": "((رَبَّنَا وَلَكَ الْحَمْدُ، حَمْداً كَثيراً طَيِّباً مُبارَكاً فِيهِ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Rabbana walakal-hamdu hamdan katheeran tayyiban mubarakan feeh.)", 
- 		    "TRANSLATED_TEXT":"(Lạy Rabb của bầy tôi, mọi lời ca tụng đều thuộc về Ngài, một lời ca tụng dồi dào, tốt đẹp và được ban phước.)", 
+			"ARABIC_TEXT": "رَبَّنَا وَلَكَ الْحَمْدُ، حَمْداً كَثيراً طَيِّباً مُبارَكاً فِيهِ.", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Rab ba naa wa la kal ham du, ham dan ka thi ron, toi yi ban, mu baa ra kan f.i.h.", 
+ 		    "TRANSLATED_TEXT":"Lạy Thượng Đế của bầy tôi, mọi lời ca ngợi tán dương là của Ngài, chỉ vì Ngài bầy tôi thành tâm ca tụng và ngày càng nhiều hơn.", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/39.mp3" 
  		},
 		{
 			"ID": 40,
-			"ARABIC_TEXT": "((مِلْءَ السَّمَوَاتِ وَمِلْءَ الأَرْضِ، وَمَا بَيْنَهُمَا، وَمِلْءَ مَا شِئْتَ مِنْ شَيءٍ بَعْدُ. أَهلَ الثَّناءِ وَالْمَجْدِ، أَحَقُّ مَا قَالَ الْعَبْدُ، وَكُلُّنَا لَكَ عَبْدٌ. اللَّهُمَّ لاَ مَانِعَ لِمَا أَعْطَيْتَ، وَلاَ مُعْطِيَ لِمَا مَنَعْتَ، وَلاَ يَنْفَعُ ذَا الجَدِّ مِنْكَ الجَدُّ)).", 
-  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"(Mil-as-samawati wamil-al-ard, wama baynahuma, wamil/a ma shi/ta min shay-in baAAd, ahlath-thana-i walmajd, ahaqqu ma qalal-AAabd, wakulluna laka AAabd. Allahumma la maniAAa lima aAAtayt, wala muAAtiya lima manaAAt, wala yanfaAAu thal-jaddi minkal-jad.)", 
- 		    "TRANSLATED_TEXT":"(Các tầng trời và trái đất và tất cả những gì ở giữa chúng đều tràn đầy lời ca ngợi Ngài, và tất cả những gì Ngài muốn cũng tràn đầy lời ca ngợi Ngài. Hỡi Đấng Sở Hữu mọi lời ca ngợi và sự uy nghiêm, điều chân thật nhất mà một người nô lệ đã nói (về Ngài) và tất cả bầy tôi đều là nô lệ của Ngài. Lạy Allah, không ai có thể ngăn cản những gì Ngài đã muốn ban cho và không ai có thể ban cho những gì Ngài đã muốn ngăn cản, và không có sự giàu có hay uy nghiêm nào có thể mang lại lợi ích cho bất kỳ ai, vì tất cả sự giàu có và uy nghiêm đều đến từ Ngài.) (Lời cầu nguyện này là tùy chọn và chỉ được đọc cùng với lời cầu nguyện trước đó.)", 
+			"ARABIC_TEXT": "مِلْءَ السَّمَوَاتِ وَمِلْءَ الأَرْضِ، وَمَا بَيْنَهُمَا، وَمِلْءَ مَا شِئْتَ مِنْ شَيءٍ بَعْدُ. أَهلَ الثَّناءِ وَالْمَجْدِ، أَحَقُّ مَا قَالَ الْعَبْدُ، وَكُلُّنَا لَكَ عَبْدٌ. اللَّهُمَّ لاَ مَانِعَ لِمَا أَعْطَيْتَ، وَلاَ مُعْطِيَ لِمَا مَنَعْتَ، وَلاَ يَنْفَعُ ذَا الجَدِّ مِنْكَ الجَدُّ.", 
+  		    "LANGUAGE_ARABIC_TRANSLATED_TEXT":"Mil as sa maa waa ti, wa mil al ar dhi wa maa bai na hu ma, wa mil a maa shi ta min shai in ba’d, ah lath tha na wal majd, a haq qu maa qo lal a’bd, wa kul lu naa la ka a’bd. Ol lo hum ma laa maa ni a’ li maa a’ toi ta, wa laa mua’ ti ya li maa ma na’ ta, wa laa yan fa u’ zal jad di min kal jad.", 
+ 		    "TRANSLATED_TEXT":"Trong các tầng trời, dưới đất và vạn vật giữa chúng đầy ắp (lời ca tụng tán dương Allah), và đất ắp cả những gì Ngài muốn sau đó. Allah là Chủ Nhân của mọi lời ca tụng tán dương, là Đấng nắm giử mọi uy quyền, là Đấng rất xứng đáng được đám nô lệ ca ngợi, và bầy tôi là nô lệ của Ngài. Lạy Allah, sẽ không có quyền lực nào ngăn cản với những gì Ngài đã ban phát cũng như không có thế lực nào ban phát trong khi Ngài đã ngăn cấm và cũng không có sự giàu có nào giúp đỡ được bản thân y đối với Ngài (ngoại trừ những việc làm tốt đẹp).", 
  		    "REPEAT": 1, 
             "AUDIO":"https://filedn.com/lco62bupk3FhokriLdI2kcb/hisnmuslimvi/40.mp3" 
  		}
